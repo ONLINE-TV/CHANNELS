@@ -29,3 +29,5 @@ http://bolly360.xyz:80/zee.php?c=zeetvsduk
 http://bolly360.xyz:80/zee.php?c=canadahd
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(IND)
 http://45.120.188.76:8080/0.ts
+#EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(APAC)
+http://103.111.120.46/hls/Colors.m3u8
