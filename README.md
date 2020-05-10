@@ -21,9 +21,9 @@ https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 http://bolly360.xyz:80/zee.php?c=zeetvhd
 #EXTINF:-1 ch-id="ZEE TV HD (USA)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="HINDI LIVE",(USA)
 http://bolly360.xyz:80/zee.php?c=ztvhdusa
-#EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="HINDI LIVE",(APAC)
+#EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="HINDI LIVE",(APAC)
 http://bolly360.xyz:80/zee.php?c=apacsea
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://www.exchange4media.com/news-photo/1508122527_OJuLfs_zee.jpg" group-title="HINDI LIVE",(UK)
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="HINDI LIVE",(UK)
 http://bolly360.xyz:80/zee.php?c=zeetvsduk
 #EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png" group-title="HINDI LIVE",(CA)
 http://bolly360.xyz:80/zee.php?c=canadahd
