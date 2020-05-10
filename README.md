@@ -3,3 +3,5 @@
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",ZOOM (IND)
 http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
+#EXTINF:-1 ch-id="SONY MIX (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png" group-title="HINDI LIVE",(IND) VPN
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
