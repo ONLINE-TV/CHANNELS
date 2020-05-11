@@ -45,3 +45,31 @@ http://bolly360.xyz:80/zee.php?c=theqyou
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ch-id="9XO (IN)" tvg-logo="https://www.adgully.com/img/800/50287_9xo.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="ENGLISH LIVE",(ASIA PACIFIC)
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 ch-id="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="BBC NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(EUROPE)
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png" group-title="ENGLISH LIVE",(INDIA)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 ch-id="CGTN (UK)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png" group-title="ENGLISH LIVE",(EUROPE)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="HINDI LIVE",(INDIA)
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
+#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="NEWS / BUSINESS CHANNELS",NHK WORLD (JP)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",DD NEWS (IN)
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 ch-id="EUROSPORT (IN)" tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/A1F83G8C2ARO7P/a1e0cde47058b02b1e400663817af00f.w1961.h470.jpg"  group-title="SPORTS CHANNELS",EUROSPORT (IN)
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
+#EXTINF:-1 ch-id="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif" group-title="SPORTS CHANNELS",SPORTS MAX (ME)
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 ch-id="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",FOOD FOOD (IN)
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ch-id="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",FASHION TV (PARIS)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
