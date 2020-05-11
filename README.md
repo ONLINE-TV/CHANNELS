@@ -29,7 +29,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 ch-id="MBC BOLLYWOOD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="HINDI LIVE",(MIDDLE EAST)
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="HINDI LIVE",(INDIA)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX LIVE",(EUROPE)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
