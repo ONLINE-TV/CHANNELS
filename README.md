@@ -31,11 +31,13 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="HINDI LIVE",(INDIA)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
-#EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="XXX LIVE",(EUROPE)
+#EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX LIVE",(EUROPE)
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="XXX LIVE",(WORLD)
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="XXX LIVE",(WORLD)
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="XXX LIVE",(EAST EUROPE)
+#EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png" group-title="XXX LIVE",(EAST EUROPE)
 http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 ch-id="THE Q INDIA (IN)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="HINDI LIVE",(INDIA)
+http://bolly360.xyz:80/zee.php?c=theqyou
