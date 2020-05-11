@@ -25,3 +25,5 @@ http://45.120.188.76:8080/0.ts
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1 ch-id="CNA (APAC)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="ENGLISH LIVE",(ASIA PACIFIC)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="HINDI LIVE",(INDIA)
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
