@@ -59,9 +59,9 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="HINDI LIVE",(INDIA)
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
-#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="ENGLISH LIVE",(JAPAN)
+#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="ENGLISH LIVE",(JAPAN)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/e/e9/DD_News.png" group-title="HINDI LIVE",(INDIA)
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 ch-id="EUROSPORT (IN)" tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/A1F83G8C2ARO7P/a1e0cde47058b02b1e400663817af00f.w1961.h470.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
