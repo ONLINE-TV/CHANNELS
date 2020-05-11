@@ -41,3 +41,5 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 ch-id="THE Q INDIA (IN)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="HINDI LIVE",(INDIA)
 http://bolly360.xyz:80/zee.php?c=theqyou
+#EXTINF:-1 ch-id="VH1 (USA)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg" group-title="ENGLISH LIVE",(AMERICA)
+http://185.59.223.82:8080/vh1/mpegts
