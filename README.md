@@ -95,5 +95,5 @@ http://216.144.250.174/Star_Plus_HD_UK/index.m3u8
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png"  group-title="HINDI LIVE",(MIDDLE EAST) 
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
-#EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/colors-apac-white.png" group-title="HINDI LIVE",(ASIA PACIFIC)
+#EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
 http://137.59.155.253:8088/hls/Colors.m3u8
