@@ -71,7 +71,7 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg" group-title="HINDI LIVE",(INDIA)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 ch-id="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg" group-title="ENGLSIH LIVE",(EUROPE)
+#EXTINF:-1 ch-id="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg" group-title="ENGLISH LIVE",(EUROPE)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="CGTN DOCUMENTARY (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="ENGLISH LIVE",(ASIA PACIFIC)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
