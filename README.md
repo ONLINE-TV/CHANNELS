@@ -43,3 +43,5 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 http://bolly360.xyz:80/zee.php?c=theqyou
 #EXTINF:-1 ch-id="VH1 (USA)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://185.59.223.82:8080/vh1/mpegts
+#EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",(AMERICA)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
