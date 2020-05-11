@@ -31,3 +31,9 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="HINDI LIVE",(INDIA)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
+#EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"group-title="XXX LIVE",(EUROPE)
+http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
+#EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="XXX LIVE",(WORLD)
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="XXX LIVE",(WORLD)
+http://live.redtraffic.xyz/pornstar.m3u8
