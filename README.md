@@ -23,5 +23,5 @@ http://bolly360.xyz:80/zee.php?c=canadahd
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(SINGAPORE)
 http://103.111.120.46/hls/Colors.m3u8
-#EXTINF:-1 ch-id="CNA (INT)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="ENGLISH LIVE",(SINGAPORE)
+#EXTINF:-1 ch-id="CNA (INT)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="ENGLISH LIVE",(SINGAPORE)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
