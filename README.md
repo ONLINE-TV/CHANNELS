@@ -91,3 +91,5 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png" group-title="HINDI LIVE",(EUROPE) VPN
 http://216.144.250.174/Star_Plus_HD_UK/index.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png" group-title="HINDI LIVE",(ASIA PACIFIC) 
+http://137.59.155.253:8088/hls/Star_Plus.m3u8
