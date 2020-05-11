@@ -77,3 +77,13 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 ch-id="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENGLISH LIVE",(EUROPE)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="HINDI LIVE",(INDIA)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 ch-id="Zee TV HD (IN)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN) VPN
+http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
+#EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN) VPN
+http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_576/PORTRAIT/o4akKNIp.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
+http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo=" " group-title="HINDI LIVE",(INDIA) VPN
+http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
