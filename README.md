@@ -99,7 +99,7 @@ http://137.59.155.253:8088/hls/Star_Gold.m3u8
 http://137.59.155.253:8088/hls/Colors.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="HINDI LIVE",(INDIA) VPN
+#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://image.vodafoneplay.in/95398/640x360_ZeeAction_95398_a7bc6340-4db7-4a84-8c44-920bb5970173.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
