@@ -93,7 +93,7 @@ http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 http://216.144.250.174/Star_Plus_HD_UK/index.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(ASIA PACIFIC) 
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png"  group-title="HINDI LIVE",(MIDDLE EAST) 
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
 http://137.59.155.253:8088/hls/Colors.m3u8
@@ -101,7 +101,7 @@ http://137.59.155.253:8088/hls/Colors.m3u8
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
-#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png"  group-Title="HINDI LIVE",(INDIA) VPN
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IND)" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7023.MAXHD.in/1x1/6x/test_pic1581148637225.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
