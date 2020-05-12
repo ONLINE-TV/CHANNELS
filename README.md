@@ -111,3 +111,21 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="http://www.mastiii.com/images/mastiii-logo-mew.png" group-title="HINDI LIVE",(INDIA)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 ch-id="DISCOVERY (IN)"  tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="HINDI LIVE",(INDIA)
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
+#EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png" group-title="HINDI LIVE",(INDIA)
+http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
+#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png" group-title="HINDI LIVE",(INDIA)
+http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="HINDI LIVE",(INDIA)
+http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="HINDI LIVE",(INDIA)
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
+#EXTINF:-1 ch-id="TLC HD (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png" group-title="HINDI LIVE",(INDIA)
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
+#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png"  group-title=" ENGLISH LIVE",(MIDDLE EAST)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
