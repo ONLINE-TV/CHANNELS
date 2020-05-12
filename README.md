@@ -105,7 +105,7 @@ http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IND)" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7023.MAXHD.in/1x1/6x/test_pic1581148637225.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="HINDI LIVE",(EUROPE) VPN
+#EXTINF:-1 ch-id="SONY MAX 2 (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 ch-id="NTV MOVIES (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg" group-title="HINDI LIVE",(EUROPE)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
