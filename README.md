@@ -119,7 +119,7 @@ http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 ch-id="TLC HD (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
