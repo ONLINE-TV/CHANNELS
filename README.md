@@ -97,3 +97,13 @@ http://137.59.155.253:8088/hls/Star_Plus.m3u8
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
 http://137.59.155.253:8088/hls/Colors.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/zeecinemahd.png" group-title="HINDI LIVE",(INDIA) VPN
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="HINDI LIVE",(INDIA) VPN
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png"  group-Title="HINDI LIVE",(INDIA) VPN
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IND)" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7023.MAXHD.in/1x1/6x/test_pic1581148637225.jpg" group-title="HINDI LIVE",(INDIA) VPN
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 ch-id="SONY MAX 2 (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="HINDI LIVE",(EUROPE) VPN
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
