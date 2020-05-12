@@ -153,3 +153,5 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(INDIA) 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="DD NATIONAL HD (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png" group-title="HINDI LIVE",(INDIA)
+http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
