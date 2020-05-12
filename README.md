@@ -135,8 +135,6 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY WAH (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
-#EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://desitvflix.site/contentData/tvshows/images/logos/Sony%20TV.png" group-title="HINDI LIVE",(INDIA)
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c3ed8e54424399.Y3JvcCw2MjQsNDg4LDI4Niw4MQ.jpg" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png" group-title="ENGLISH LIVE",(INDIA)
@@ -154,5 +152,4 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="TEZ (IN)" tvg-logo="https://i.ytimg.com/vi/Qm4vvA-i3Rc/maxresdefault.jpg" group-title="HINDI LIVE",(INDIA)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(INDIA) 
-http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
