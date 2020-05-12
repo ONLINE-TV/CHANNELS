@@ -11,7 +11,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IND)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="HINDI LIVE",(INDIA)
 http://bolly360.xyz:80/zee.php?c=zeetvhd
-#EXTINF:-1 ch-id="ZEE TV HD (USA)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="HINDI LIVE",(AMERICA )
+#EXTINF:-1 ch-id="ZEE TV HD (USA)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="HINDI LIVE",(AMERICA)
 http://bolly360.xyz:80/zee.php?c=ztvhdusa
 #EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="HINDI LIVE",(ASIA PACIFIC)
 http://bolly360.xyz:80/zee.php?c=apacsea
@@ -97,7 +97,7 @@ http://137.59.155.253:8088/hls/Star_Plus.m3u8
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
 http://137.59.155.253:8088/hls/Colors.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="http://www.bdiptv.info/wp-content/uploads/2018/11/zeecinemahd.png" group-title="HINDI LIVE",(INDIA) VPN
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
