@@ -137,7 +137,7 @@ https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png" group-title="ENGLISH LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ch-id="SONY ESPN HD (IN)" tvg-logo="https://www.adgully.com/img/400/65764_image001.png.jpg" group-title="ENGLISH LIVE",(INDIA)
+#EXTINF:-1 ch-id="SONY ESPN HD (IN)" tvg-logo="https://rvcyberworldhome.files.wordpress.com/2018/09/download-4.png"  group-title="ENGLISH LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY YAY (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
