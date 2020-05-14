@@ -289,3 +289,5 @@ http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 https://www.ast.tv/stream/1/normal.m3u8
 #EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="XXX LIVE",(EUROPE) 
 http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="ENGLISH LIVE",(ASIA)
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
