@@ -125,7 +125,7 @@ http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png"  group-title=" ENGLISH LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
