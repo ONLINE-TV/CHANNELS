@@ -191,3 +191,5 @@ http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
 http://95.211.211.168/live/geonews0011/playlist.m3u8
 #EXTINF:-1 ch-id="9 NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg" group-title="HINDI LIVE",(EUROPE)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
+#EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="ENGLISH LIVE" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",(EUROPE)
+http://188.35.9.26:9031/udp/117m
