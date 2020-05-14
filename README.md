@@ -267,3 +267,7 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="DUBAI ONE (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
+#EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="XXX LIVE",(EUROPE) 
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
