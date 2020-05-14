@@ -211,7 +211,7 @@ http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_six_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY ESPN (IN)" tvg-logo="https://www.watchlivecric.com/wp-content/uploads/2019/07/Sky-sports-Watch-Live-Streaming-min-2.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_espn_720/chunklist.m3u8
-#EXTINF:-1 ch-id="SONY AATH (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA LIVE",(INDIA)
+#EXTINF:-1 ch-id="SONY AATH (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BENGALI LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(EUROPE)
 http://51.52.156.22:8888/http/003
