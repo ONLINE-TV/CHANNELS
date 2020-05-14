@@ -291,3 +291,5 @@ https://www.ast.tv/stream/1/normal.m3u8
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="ENGLISH LIVE",(ASIA)
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+#EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="HINDI LIVE",(INDIA)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
