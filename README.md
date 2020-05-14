@@ -259,3 +259,5 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="HINDI LIVE",(MIDDLE EAST)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1 ch-id="DABL (USA)" tvg-logo="https://kgeb.net/wp-content/uploads/2020/01/DABL-Subchannel-icon.png" group-title="ENGLISH LIVE",(AMERICA)
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
