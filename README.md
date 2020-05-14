@@ -283,3 +283,5 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925101795s.png"  group-title="HINDI LIVE",(MIDDLE EAST)
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",(INDIA)
+http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
