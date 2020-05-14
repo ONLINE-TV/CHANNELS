@@ -193,3 +193,5 @@ http://95.211.211.168/live/geonews0011/playlist.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="ENGLISH LIVE" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",(EUROPE)
 http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 ch-id="JONACK TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png" group-title="ASSAMESE LIVE",(INDIA)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
