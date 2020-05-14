@@ -253,3 +253,5 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="X BUNGA BUNGA (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="XXX LIVE",(EUROPE)
 http://5.135.92.133:52841/out/u/107_1.m3u8
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="HINDI LIVE",(EUROPE)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
