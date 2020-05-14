@@ -285,3 +285,5 @@ http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",(INDIA)
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
+#EXTINF:-1 ch-id="BISEXUAL TV (INT)" tvg-logo="https://i.pinimg.com/originals/f4/e9/8e/f4e98e5d039513af7761e38d5bdfebc3.png" group-title="XXX LIVE",(WORLD) 
+https://www.ast.tv/stream/1/normal.m3u8
