@@ -171,7 +171,23 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="ENGLISH LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-name="DD KISAN (IN)" tvg-logo="https://webcast.gov.in/images/kisan.jpg"group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo="https://webcast.gov.in/images/kisan.jpg"group-title="HINDI LIVE",(INDIA)
 http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 #EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="HINDI LIVE",(EUROPE)
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1 tvg-id="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg" group-title="HINDI LIVE",TAG TV (AMERICA)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 ch-id="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png" group-title="HINDI LIVE",(PAKISTAN)
+http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
+#EXTINF:-1 ch-id="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="HINDI LIVE",(EUROPE)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 ch-id="BABY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ENGLISH LIVE",(INDIA)
+http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
+#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo="https://www.phoneworld.com.pk/wp-content/uploads/2019/12/hum.jpg" group-title="HINDI LIVE",(PAKISTAN)
+http://95.211.211.168/live/humtv0066/playlist.m3u8
+#EXTINF:-1 ch-id="A PLUS (PK)" tvg-logo="https://pbs.twimg.com/profile_images/865895520417533953/4WISx12s_400x400.jpg" group-title="HINDI LIVE",(PAKISTAN)
+http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
+#EXTINF:-1 ch-id="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="HINDI LIVE",(PAKISTAN)
+http://95.211.211.168/live/geonews0011/playlist.m3u8
+#EXTINF:-1 ch-id="9 NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg" group-title="HINDI LIVE",(EUROPE)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
