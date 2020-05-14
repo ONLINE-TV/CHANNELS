@@ -211,17 +211,17 @@ http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_six_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY ESPN (IN)" tvg-logo="https://www.watchlivecric.com/wp-content/uploads/2019/07/Sky-sports-Watch-Live-Streaming-min-2.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_espn_720/chunklist.m3u8
-#EXTINF:-1 ch-id="SONY AATH (IN)" tvg-logo="http://videoelephantbd.com/wp-content/uploads/2019/10/Sony-Aath.png" group-title="BANGLA LIVE (INDIA)
+#EXTINF:-1 ch-id="SONY AATH (IN)" tvg-logo="http://videoelephantbd.com/wp-content/uploads/2019/10/Sony-Aath.png" group-title="BANGLA LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(EUROPE)
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" group-title="ENGLISH LIVE",(IRAN)
+#EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="" group-title="ENGLISH LIVE",(IRAN)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 ch-id="NIMO TV (INT)" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/nimo-tv__2.jpg"group-title="ENGLISH LIVE",(EUROPE)
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 ch-id="CARTOON NATWORK (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="ENGLISH LIVE",(EUROPE)
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
-#EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="ENGLISH LIVE",(INDIA)
+#EXTINF:-1 ch-id="SONY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="HINDI LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="VH1 (USA)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="ENGLISH LIVE",(AMERICA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
