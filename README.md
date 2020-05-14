@@ -195,3 +195,11 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1 ch-id="JONACK TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png" group-title="ASSAMESE LIVE",(INDIA)
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 ch-id="ASSAM TALKS (IN)" tvg-logo="https://www.magicalassam.com/wp-content/uploads/2015/05/assam-talks-channel.jpg" group-title="ASSAMESE LIVE",(INDIA)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="ASSAMESE LIVE",(INDIA)
+http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Pratidin_Time.jpg" group-title="ASSAMESE LIVE",(INDIA)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/News_Time_Assam_new.jpeg" group-title="ASSAMESE LIVE",(INDIA)
+http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
