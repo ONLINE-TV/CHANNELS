@@ -275,3 +275,7 @@ http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg" group-title="HINDI LIVE",(MIDDLE EAST)
 http://livecdnh3.tvanywhere.ae/hls/rishtey/02.m3u8
+#EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="ENGLISH LIVE",(EUROPE)
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/thumbv_20191205_011236.jpg"  group-title="HINDI LIVE",(AMERICA)
+http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
