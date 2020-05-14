@@ -205,7 +205,7 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="HINDI LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
-#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2019/08/sony-sab.jpg" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="ENGLISH LIVE",(INDIA)
 http://103.205.133.42:1935/local/sony_six_720/chunklist.m3u8
