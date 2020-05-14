@@ -287,3 +287,5 @@ http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 #EXTINF:-1 ch-id="BISEXUAL TV (INT)" tvg-logo="https://i.pinimg.com/originals/f4/e9/8e/f4e98e5d039513af7761e38d5bdfebc3.png" group-title="XXX LIVE",(WORLD) 
 https://www.ast.tv/stream/1/normal.m3u8
+#EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="XXX LIVE",(EUROPE) 
+http://188.35.9.11:21141/udp/214h
