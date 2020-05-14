@@ -175,7 +175,7 @@ https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hd
 http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 #EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="HINDI LIVE",(EUROPE)
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
-#EXTINF:-1 tvg-id="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg" group-title="HINDI LIVE",TAG TV (AMERICA)
+#EXTINF:-1 tvg-id="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg" group-title="HINDI LIVE",(AMERICA)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 ch-id="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png" group-title="HINDI LIVE",(PAKISTAN)
 http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
