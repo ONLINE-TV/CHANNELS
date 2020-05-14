@@ -261,7 +261,7 @@ http://103.205.133.42:1935/local/sony_yay_720/chunklist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1 ch-id="DABL (USA)" tvg-logo="https://kgeb.net/wp-content/uploads/2020/01/DABL-Subchannel-icon.png" group-title="ENGLISH LIVE",(AMERICA)
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
-#EXTINF:-1 ch-id="FOX CRIME (ASIA)" group-title="ENGLISH LIVE", tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png",(ASIA)
+#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo="https://www.altkiasat.com/wp-content/uploads/2015/11/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
