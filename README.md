@@ -215,7 +215,7 @@ http://103.205.133.42:1935/local/sony_espn_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(EUROPE)
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="" group-title="ENGLISH LIVE",(IRAN)
+#EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-kids-ae.png" group-title="ENGLISH LIVE",(IRAN)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 ch-id="NIMO TV (INT)" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/nimo-tv__2.jpg"group-title="ENGLISH LIVE",(EUROPE)
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
