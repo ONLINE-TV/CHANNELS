@@ -301,3 +301,5 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/409730225
+#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://image.vodafoneplay.in/95398/640x360_ZeeAction_95398_a7bc6340-4db7-4a84-8c44-920bb5970173.jpg" group-title="HINDI LIVE",(INDIA) VPN
+http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
