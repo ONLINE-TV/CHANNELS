@@ -293,3 +293,11 @@ http://188.35.9.11:21141/udp/214h
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="HINDI LIVE",(INDIA)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/rightwrongs/assets/media/credits/abc-logo-white.png" group-title="ENGLISH LIVE",(AUSTRALIA)
+http://58.96.43.121:9981/stream/channelid/1303336422
+#EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://cdn.iview.abc.net.au/thumbs/1200/ls/LS1604H001S00_5e6fc01191e7c_1920.jpg"  group-title="ENGLISH LIVE",(AUSTRALIA)
+http://58.96.43.121:9981/stream/channelid/60031137
+#EXTINF:-1 ch-id="ABC ME (AUS)" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/ABC-ME.jpg"  group-title="ENGLISH LIVE",(AUSTRALIA)
+http://58.96.43.121:9981/stream/channelid/739262830
+#EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="ENGLISH LIVE",(AUSTRALIA)
+http://58.96.43.121:9981/stream/channelid/409730225
