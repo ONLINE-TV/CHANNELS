@@ -271,3 +271,7 @@ https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:-1 ch-id="DUCK TV (ME)" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/ducktv.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg" group-title="HINDI LIVE",(MIDDLE EAST)
+http://livecdnh3.tvanywhere.ae/hls/rishtey/02.m3u8
