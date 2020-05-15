@@ -353,8 +353,6 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 ch-id="BLOOMBERG TV (AU)" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 ch-id="FOX SPORTS NEWS (AU)" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ch-id="RACING.COM (AU)" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="ENGLISH LIVE",(AUSTRALIA)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 ch-id="SKY NEWS EXTRA (AU)" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="ENGLISH LIVE",(AUSTRALIA)
