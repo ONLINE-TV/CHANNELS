@@ -9,16 +9,6 @@ http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 #EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (IND)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="HINDI LIVE",(INDIA)
-http://bolly360.xyz:80/zee.php?c=zeetvhd
-#EXTINF:-1 ch-id="ZEE TV HD (USA)"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="HINDI LIVE",(AMERICA)
-http://bolly360.xyz:80/zee.php?c=ztvhdusa
-#EXTINF:-1 ch-id="ZEE TV (APAC)"  tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="HINDI LIVE",(ASIA PACIFIC)
-http://bolly360.xyz:80/zee.php?c=apacsea
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="HINDI LIVE",(EUROPE)
-http://bolly360.xyz:80/zee.php?c=zeetvsduk
-#EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png" group-title="HINDI LIVE",( NORTH AMERICA)
-http://bolly360.xyz:80/zee.php?c=canadahd
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 ch-id="COLORS TV (APAC)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
@@ -113,7 +103,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
-#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png" group-title="ENGLISH LIVE",(INDIA)
+#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="http://mandmglobal.com/wp-content/uploads/2014/12/Discovery-Turbo-600x460.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
@@ -267,8 +257,6 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="DUBAI ONE (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-#EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.just89.com/img/logo/just89.png" group-title="XXX LIVE",(EUROPE) 
-http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 ch-id="DUCK TV (ME)" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/ducktv.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
@@ -285,8 +273,6 @@ http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",(INDIA)
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
-#EXTINF:-1 ch-id="BISEXUAL TV (INT)" tvg-logo="https://i.pinimg.com/originals/f4/e9/8e/f4e98e5d039513af7761e38d5bdfebc3.png" group-title="XXX LIVE",(WORLD) 
-https://www.ast.tv/stream/1/normal.m3u8
 #EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="XXX LIVE",(EUROPE) 
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="ENGLISH LIVE",(ASIA)
