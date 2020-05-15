@@ -27,8 +27,6 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 ch-id="THE Q INDIA (IN)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="HINDI LIVE",(INDIA)
-http://bolly360.xyz:80/zee.php?c=theqyou
 #EXTINF:-1 ch-id="VH1 (USA)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",(AMERICA)
@@ -329,3 +327,5 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ch-id="BEACH TV (USA)"  tvg-logo="https://image.roku.com/developer_channels/prod/e3d242996c23060fc364d9cac1fa8607a49650cc0f1bb35593ab9fda18737757.png" group-title="ENGLISH LIVE",(AMERICA)
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 ch-id="THE Q INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/The_Q_India.jpg" group-title="HINDI LIVE",(INDIA)
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
