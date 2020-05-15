@@ -329,3 +329,17 @@ http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 ch-id="RK TV (UK)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 ch-id="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="ENGLISH LIVE",(ASIA)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 ch-id="HD FASHION & LIFESTYLE (RU)" tvg-logo="https://www.neplpadome.lv/lv/assets/images/Programmu%20logo/hd_fashion_ua_logo.jpg" group-title="ENGLISH LIVE",(RUSSIA)
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 ch-id="CNBC TV 18 (IN)" tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="ENGLISH LIVE",(INDIA) 
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+EXTINF:-1 ch-id="THE WEATHER CHANNELS (USA)" tvg-logo="https://www.pngitem.com/pimgs/m/74-746370_weather-channel-hd-png-download.png" group-title="ENGLISH LIVE",(AMERICA)
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 ch-id="WEATHER NATION (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="ENGLISH LIVE",(AMERICA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 ch-id="BBC WORLD NEWS (INT)"  tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/BBC%20World%20News.png"  group-title="ENGLISH LIVE",(ASIA)
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 ch-id="CNN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="ENGLISH LIVE",(AMERICA)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
