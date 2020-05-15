@@ -329,3 +329,5 @@ https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="ENGLISH LIVE",(AMERICA)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  tvg-logo="https://1.bp.blogspot.com/-45PDXFbElGM/XYXI4Yl9vpI/AAAAAAAAGQ4/MZyzW7VIaY0xTPdFFqppRzBw0jSeieUqQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Al%2BFajer%2B2%2BTV.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
