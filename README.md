@@ -417,3 +417,5 @@ http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 ch-id="TRT WORLD (INT)" tvg-logo="https://www.danielmekonnen.com/wp-content/uploads/2020/01/afb285c992c744fe83f01388e262b839.png" group-title="ENGLISH LIVE",(WORLD)
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ch-id="VYAS (IND)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-vyas-channel-5512.jpg" group-title="HINDI LIVE",(INDIA)
+http://playhls.media.nic.in/live/vyas-360p/index.m3u8
