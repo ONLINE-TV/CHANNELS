@@ -327,3 +327,5 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 ch-id="THE Q INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/The_Q_India.jpg" group-title="HINDI LIVE",(INDIA)
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1 ch-id="RK TV (UK)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="XXX LIVE",(EUROPE)
+http://188.35.9.26:5031/udp/058j
