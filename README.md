@@ -315,5 +315,7 @@ http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1661.m3u8
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1659.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1650.m3u8
-#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://pbs.twimg.com/profile_images/897389040063967232/Jr53VbCS.jpg" group-title="HINDI LIVE",(PAKISTAN)
+#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="HINDI LIVE",(PAKISTAN)
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
+#EXTINF:-1 ch-id="ZEE HINDUSTAN (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png" group-title="HINDI LIVE",(INDIA)
+http://103.144.200.7:8080/hls/zeetv/index.m3u8
