@@ -381,3 +381,5 @@ http://175.41.46.16:8081/hls/6.m3u8
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 ch-id="MASSRANGA HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:-1 ch-id="ZOOM (IN)"  tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="HINDI LIVE",(INDIA)
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
