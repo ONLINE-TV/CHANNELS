@@ -385,7 +385,7 @@ http://175.41.46.16:8081/hls/10.m3u8
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 ch-id="AST TV (EU)" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="XXX LIVE",(EUROPE)
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 ch-id="FAITH (UK)" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="ENGLISH LIVE",(AMERICA)
+#EXTINF:-1 ch-id="FAITH (US)" tvg-logo="https://pbs.twimg.com/profile_images/1059017293152292866/jDI6KZss.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1 ch-id="BEK (UK)"  tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="ENGLISH LIVE",(EUROPE)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
