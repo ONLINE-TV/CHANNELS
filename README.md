@@ -319,3 +319,9 @@ http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1650.m3u8
 https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 ch-id="ZEE HINDUSTAN (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png" group-title="HINDI LIVE",(INDIA)
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
+#EXTINF:-1 ch-id="ENGLISH CLUB TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="ENGLISH LIVE",(EUROPE)
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 ch-id="TELESUR HD (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="ENGLISH LIVE",(AMERICA)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 ch-id="CBN NEWS (INT)" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="ENGLISH LIVE",(AMERICA)
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
