@@ -339,3 +339,7 @@ http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=liv
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ch-id="C-SPAN (USA)" tvg-logo="https://www.underconsideration.com/brandnew/archives/c_span_logo.png" group-title="ENGLISH LIVE",(AMERICA)
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="NASA TV (INT)" tvg-logo="https://logodix.com/logo/569783.png" group-title="ENGLISH LIVE",(AMERICA)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 ch-id="BEACH TV (USA)"  tvg-logo="https://image.roku.com/developer_channels/prod/e3d242996c23060fc364d9cac1fa8607a49650cc0f1bb35593ab9fda18737757.png" group-title="ENGLISH LIVE",(AMERICA)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
