@@ -293,15 +293,15 @@ http://188.35.9.11:21141/udp/214h
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="HINDI LIVE",(INDIA)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/rightwrongs/assets/media/credits/abc-logo-white.png" group-title="ENGLISH LIVE",(AUSTRALIA)
+#EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/tv/epg/images/ABC_320x180.png" group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/1303336422
 #EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://cdn.iview.abc.net.au/thumbs/1200/ls/LS1604H001S00_5e6fc01191e7c_1920.jpg"  group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/60031137
 #EXTINF:-1 ch-id="ABC ME (AUS)" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/ABC-ME.jpg"  group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/739262830
-#EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="ENGLISH LIVE",(AUSTRALIA)
+#EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/409730225
-#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://image.vodafoneplay.in/95398/640x360_ZeeAction_95398_a7bc6340-4db7-4a84-8c44-920bb5970173.jpg" group-title="HINDI LIVE",(INDIA) VPN
+#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png"  group-title="HINDI LIVE",(INDIA) VPN
 http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
 #EXTINF:-1 ch-id="PEOPLE TV (USA)"  tvg-logo="https://www.vondecarlo.com/wp-content/uploads/2018/10/peopletv.png" group-title="ENGLISH LIVE",(AMERICA)
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
