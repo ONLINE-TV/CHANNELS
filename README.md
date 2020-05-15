@@ -373,7 +373,7 @@ https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png" group-title="ENGLISH LIVE",(INDIA)
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo=" " group-title="BENGALI LIVE",(INDIA)
+#EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1 ch-id="ZEE BANGLA HD (IN)" tvg-logo=" " group-title="BENGALI LIVE",(INDIA)
+#EXTINF:-1 ch-id="ZEE BANGLA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
