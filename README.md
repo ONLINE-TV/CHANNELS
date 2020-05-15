@@ -359,3 +359,5 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 ch-id="SKY NEWS EXTRA (AU)" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="ENGLISH LIVE",(AUSTRALIA)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="ENGLISH LIVE",(INDIA)
+https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
