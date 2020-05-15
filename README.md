@@ -377,3 +377,7 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png"  group-title="HINDI LIVE",(INDIA)
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 ch-id="MASSRANGA HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BENGALI LIVE",(INDIA)
+http://175.41.46.16:8081/hls/10.m3u8
