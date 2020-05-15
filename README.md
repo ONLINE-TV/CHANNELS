@@ -35,7 +35,7 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="XXX LIVE",(WORLD)
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png" group-title="XXX LIVE",(EAST EUROPE)
+#EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 ch-id="THE Q INDIA (IN)"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="HINDI LIVE",(INDIA)
 http://bolly360.xyz:80/zee.php?c=theqyou
@@ -303,3 +303,15 @@ http://58.96.43.121:9981/stream/channelid/739262830
 http://58.96.43.121:9981/stream/channelid/409730225
 #EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://image.vodafoneplay.in/95398/640x360_ZeeAction_95398_a7bc6340-4db7-4a84-8c44-920bb5970173.jpg" group-title="HINDI LIVE",(INDIA) VPN
 http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
+#EXTINF:-1 ch-id="PEOPLE TV (USA)"  tvg-logo="https://www.vondecarlo.com/wp-content/uploads/2018/10/peopletv.png" group-title="ENGLISH LIVE",(AMERICA)
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://i.pinimg.com/originals/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1666.m3u8
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1665.m3u8
+#EXTINF:-1 ch-id="FOX HD (ME)"  tvg-logo="https://i.dlpng.com/static/png/504956_preview.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1661.m3u8
+#EXTINF:-1 ch-id="FOX CRIME HD (ME)"  tvg-logo="https://www.infotelevisi.com/asset/logotv/567bab677ce40-fox_crime_asia_hd.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1659.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1650.m3u8
