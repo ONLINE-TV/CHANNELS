@@ -409,3 +409,5 @@ https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 #EXTINF:-1 ch-id="SADHNA BHAKTI TV (IN)" tvg-logo="https://images.jdmagicbox.com/comp/noida/22/011p127422/catalogue/sadhna-tv-noida-sector-10-noida-satellite-channels-lzxqx5ej92.jpg" group-title="HINDI LIVE",(INDIA)
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1 ch-id="100AUTOMOTO TV (USA)"  tvg-logo="http://www.dealood.com/content/uploads/images/September2019/bg-100-auto-moto-tv[1]-large.jpg" group-title="ENGLISH LIVE",(AMERICA)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
