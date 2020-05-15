@@ -393,3 +393,5 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/13551/production/_91758197_p01tlf61.jpg" group-title="ENGLISH LIVE",(EUROPE)
 http://51.52.156.22:8888/http/004
+#EXTINF:-1 ch-id="ZEE BANGLA (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebangla/list/zee_bangla_386x3_745970677.jpg" group-title="BENGALI LIVE",(INDIA)
+http://43.251.86.2:8080/hls/channel_1.m3u8
