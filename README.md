@@ -109,11 +109,11 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 ch-id="TLC HD (IN)"  tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1556850779_logo-tlc-hd.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
-#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo=" "  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -359,8 +359,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="ENGLISH LIVE",(INDIA)
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
-#EXTINF:-1 ch-id="FOX SPORTS (AU)" "tvg-logo="https://f0.pngfuel.com/png/617/948/a-league-fox-sports-networks-television-fox-sports-2-png-clip-art.png"  group-title="ENGLISH LIVE",(AUSTRALIA)
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,ch-id="AL JAZEERA (INT)" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6_400x400.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
