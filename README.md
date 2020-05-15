@@ -325,3 +325,5 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 ch-id="CBN NEWS (INT)" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="ENGLISH LIVE",(AMERICA)
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="ENGLISH LIVE",(RUSSIA)
+https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
