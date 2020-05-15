@@ -327,3 +327,5 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="ENGLISH LIVE",(RUSSIA)
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="ENGLISH LIVE",(AMERICA)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
