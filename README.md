@@ -335,3 +335,7 @@ http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="DISNEY CHANNEL HD (ME)" tvg-logo="https://i.pinimg.com/originals/f0/9f/d5/f09fd5ce65bb975ce820c9bc658b0431.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
+#EXTINF:-1 ch-id="FLOK (USA)"  tvg-logo="http://myfolk.tv/wp-content/uploads/2019/04/Folk-Logo800_450.jpg" group-title="ENGLISH LIVE",(AMERICA)
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ch-id="C-SPAN (USA)" tvg-logo="https://www.underconsideration.com/brandnew/archives/c_span_logo.png" group-title="ENGLISH LIVE",(AMERICA)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
