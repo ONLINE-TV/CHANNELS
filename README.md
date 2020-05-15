@@ -361,7 +361,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="ENGLISH LIVE",(INDIA)
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
-#EXTINF:-1 ch-id="FOX SPORTS (AU)" "tvg-logo="https://1x41wi4ekjc71rf2x7zbpt6azg-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/fox.png"  group-title="ENGLISH LIVE",(AUSTRALIA)
+#EXTINF:-1 ch-id="FOX SPORTS (AU)" "tvg-logo="https://f0.pngfuel.com/png/617/948/a-league-fox-sports-networks-television-fox-sports-2-png-clip-art.png"  group-title="ENGLISH LIVE",(AUSTRALIA)
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
@@ -369,5 +369,5 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
-#EXTINF:-1 ch-id="FX (ASIA)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENGLISH LIVE",(ASIA)
+#EXTINF:-1 ch-id="FX (ASIA)" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
