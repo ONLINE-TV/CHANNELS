@@ -331,3 +331,7 @@ https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  tvg-logo="https://1.bp.blogspot.com/-45PDXFbElGM/XYXI4Yl9vpI/AAAAAAAAGQ4/MZyzW7VIaY0xTPdFFqppRzBw0jSeieUqQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Al%2BFajer%2B2%2BTV.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (ASIA)"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png"  group-title="ENGLISH LIVE",(ASIA)
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="DISNEY CHANNEL HD (ME)" tvg-logo="https://i.pinimg.com/originals/f0/9f/d5/f09fd5ce65bb975ce820c9bc658b0431.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
