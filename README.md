@@ -383,7 +383,7 @@ http://175.41.46.16:8081/hls/8.m3u8
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 ch-id="ZOOM (IN)"  tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="HINDI LIVE",(INDIA)
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:-1 ch-id="ASS TV (INT)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9b064649177903.56084ea344766.jpg"  group-title="ADULT CHANNELS",ASS TV (INT)
+#EXTINF:-1 ch-id="AST TV (EU)" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="XXX LIVE",(EUROPE)
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 ch-id="FAITH (UK)" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="DEVOTIONAL CHANNELS",FAITH (USA)
+#EXTINF:-1 ch-id="FAITH (UK)" tvg-logo="https://usa.myfaith.tv/wp-content/uploads/2019/10/faith-light-1.png" group-title="ENGLISH LIVE",(AMERICA)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
