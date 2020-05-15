@@ -395,3 +395,7 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebangla/list/zee_bangla_386x3_745970677.jpg" group-title="BENGALI LIVE",(INDIA)
 http://43.251.86.2:8080/hls/channel_1.m3u8
+#EXTINF:-1 ch-id="CARTOON NETWORK (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/teentitansgoshow/images/d/d4/2000px-Cartoon_Network_logo.svg.png"  group-title="ENGLISH LIVE",(ASIA)
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (ID)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="ENGLISH LIVE",(ASIA)
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
