@@ -389,3 +389,5 @@ https://www.ast.tv/stream/1/cellular.m3u8
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 #EXTINF:-1 ch-id="BEK (UK)"  tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="ENGLISH LIVE",(EUROPE)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 ch-id="FOOD NETWORK (USA)" tvg-logo="https://www.pngfind.com/pngs/m/36-364764_food-network-logo-png-food-network-logo-white.png" group-title="ENGLISH LIVE",(AMERICA)
+http://5.135.92.133:52841/out/u/502_1.m3u8
