@@ -411,3 +411,9 @@ https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 ch-id="100AUTOMOTO TV (USA)"  tvg-logo="http://www.dealood.com/content/uploads/images/September2019/bg-100-auto-moto-tv[1]-large.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 ch-id="AMAR UJALA (IND)" tvg-logo="https://samachar4media.gumlet.com/22527_amar-ujala.jpg" group-title="HINDI LIVE",(INDIA)
+http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 ch-id="MUSIC BOX (UK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/ef/Music_Box_logo.png"  group-title="ENGLISH LIVE",(EUROPE)
+http://hls.clubplus.eu/ch09/index.m3u8
+#EXTINF:-1 ch-id="TRT WORLD (INT)" tvg-logo="https://www.danielmekonnen.com/wp-content/uploads/2020/01/afb285c992c744fe83f01388e262b839.png" group-title="ENGLISH LIVE",(WORLD)
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
