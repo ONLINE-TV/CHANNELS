@@ -343,3 +343,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 ch-id="CNN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="ENGLISH LIVE",(AMERICA)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="DW (INT)" tvg-logo="https://w12studios.com/wp-content/uploads/2018/08/DW_Logo.png" group-title="ENGLISH LIVE",(ASIA)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 ch-id="CNBC AWAAZ (IN)" tvg-logo="https://pbs.twimg.com/profile_images/884283573913571329/BgLmFh7u_400x400.jpg" group-title="HINDI LIVE",(INDIA)
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 ch-id="LSTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="HINDI LIVE",(INDIA)
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
