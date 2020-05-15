@@ -109,7 +109,7 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 ch-id="TLC HD (IN)"  tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1556850779_logo-tlc-hd.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
-#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
