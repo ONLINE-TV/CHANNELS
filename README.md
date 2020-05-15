@@ -365,3 +365,9 @@ https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvca
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:-1,ch-id="AL JAZEERA (INT)" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6_400x400.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
+#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENGLISH LIVE",(ASIA)
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+#EXTINF:-1 ch-id="FX (ASIA)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="ENGLISH LIVE",(ASIA)
+https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
