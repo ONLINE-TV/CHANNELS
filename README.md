@@ -391,3 +391,5 @@ http://hls-live-media.cdn01.net/default/stream_14889.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 ch-id="FOOD NETWORK (USA)" tvg-logo="https://www.pngfind.com/pngs/m/36-364764_food-network-logo-png-food-network-logo-white.png" group-title="ENGLISH LIVE",(AMERICA)
 http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/13551/production/_91758197_p01tlf61.jpg" group-title="ENGLISH LIVE",(EUROPE)
+http://51.52.156.22:8888/http/004
