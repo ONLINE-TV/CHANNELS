@@ -441,3 +441,5 @@ https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
 #EXTINF:-1 ch-id="FOX LIFE  (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1013545522618097664/_Zd70OIU_400x400.jpg" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1 ch-id="HISTORY (ASIA)" tvg-logo="https://www.adgully.com/img/400/201710/tv-18_2.jpg" group-title="ENGLISH LIVE",(ASIA)
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
