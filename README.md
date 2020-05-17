@@ -439,3 +439,5 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ASIA)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1 ch-id="FOX LIFE  (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1013545522618097664/_Zd70OIU_400x400.jpg" group-title="ENGLISH LIVE",(ASIA)
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
