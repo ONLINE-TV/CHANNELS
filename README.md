@@ -425,3 +425,5 @@ https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1 ch-id="RT (RUS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="ENGLISH LIVE",(RUSSIA)
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
