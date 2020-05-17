@@ -459,3 +459,5 @@ https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 ch-id="CARTOON NATWORK (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="ENGLISH LIVE",(ASIA)
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (MIDDLE EAST)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png" group-title="HINDI LIVE",(MIDDLE EAST)
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
