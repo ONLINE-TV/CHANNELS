@@ -433,3 +433,5 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)"  tvg-logo="http://my-hd.tv/shared/img/channels/MBC-Bollywood.gif" group-title="HINDI LIVE",(MIDDLE EAST)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1637.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="ENGLISH LIVE",(WORLD)
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
