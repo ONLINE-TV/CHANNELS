@@ -427,3 +427,5 @@ http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1 ch-id="RT (RUS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="ENGLISH LIVE",(RUSSIA)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="ENGLISH LIVE",(PAKISTAN)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
