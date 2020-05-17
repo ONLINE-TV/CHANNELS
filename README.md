@@ -283,7 +283,7 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/409730225
-#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png"  group-title="HINDI LIVE",(INDIA) VPN
+#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png"  group-title="HINDI LIVE",(INDIA) 
 http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
 #EXTINF:-1 ch-id="PEOPLE TV (USA)"  tvg-logo="https://www.vondecarlo.com/wp-content/uploads/2018/10/peopletv.png" group-title="ENGLISH LIVE",(AMERICA)
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
@@ -369,7 +369,7 @@ https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/1.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png" group-title="ENGLISH LIVE",(INDIA)
+#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="ENGLISH LIVE",(INDIA)
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/7.m3u8
