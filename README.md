@@ -429,3 +429,5 @@ http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="ENGLISH LIVE",(PAKISTAN)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1 ch-id="CBSN (USA)" tvg-logo="https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png"  group-title="ENGLISH LIVE",(AMERICA)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
