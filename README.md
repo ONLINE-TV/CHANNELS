@@ -435,3 +435,5 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1637.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="ENGLISH LIVE",(WORLD)
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(ASIA)
+https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
