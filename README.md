@@ -339,7 +339,7 @@ EXTINF:-1 ch-id="THE WEATHER CHANNELS (USA)" tvg-logo="https://www.pngitem.com/p
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 ch-id="WEATHER NATION (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="ENGLISH LIVE",(AMERICA)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 ch-id="BBC WORLD NEWS (INT)"  tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/BBC%20World%20News.png"  group-title="ENGLISH LIVE",(ASIA)
+#EXTINF:-1 ch-id="BBC WORLD NEWS (INT)"  tvg-logo="https://i.ya-webdesign.com/images/bbc-news-logo-png-19.png"  group-title="ENGLISH LIVE",(ASIA)
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 ch-id="CNN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="ENGLISH LIVE",(AMERICA)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
@@ -443,3 +443,5 @@ https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 #EXTINF:-1 ch-id="HISTORY (ASIA)" tvg-logo="https://www.adgully.com/img/400/201710/tv-18_2.jpg" group-title="ENGLISH LIVE",(ASIA)
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+EXTINF:-1 ch-id="BBC WORLD NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(WORLD)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
