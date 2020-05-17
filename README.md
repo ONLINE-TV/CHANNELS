@@ -417,3 +417,5 @@ http://hls.clubplus.eu/ch09/index.m3u8
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 ch-id="VYAS (IND)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-vyas-channel-5512.jpg" group-title="HINDI LIVE",(INDIA)
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
+#EXTINF:-1 ch-id="PORNO REINO (INT)" tvg-logo="https://pornoreino.com/images/logo.png"  group-title="XXX LIVE",(WORLD)
+http://188.35.9.26:5031/udp/058j
