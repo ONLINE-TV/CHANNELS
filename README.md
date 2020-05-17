@@ -463,7 +463,7 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 ch-id="SONY SAB (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(AMERICA)
 http://185.246.209.251:9090/sabtv/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY PAL (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg"  group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="SONY PAL (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg"  group-title="HINDI LIVE",(AMERICA)
 http://185.246.209.251:9090/sonypal/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY PAL (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg"  group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
