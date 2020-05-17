@@ -421,3 +421,5 @@ http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1 ch-id="HD FASHION & LIFESTYLE (EU)"  tvg-logo="http://live-hdfashion.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="ENGLISH LIVE",(EUROPE)
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(INDIA) 
+http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
