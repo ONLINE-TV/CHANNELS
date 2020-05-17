@@ -451,3 +451,5 @@ https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1 ch-id="THE OUTDOOR COOKING CHANNEL (USA)" tvg-logo="https://blog.cavetools.com/wp-content/uploads/2017/04/outdoor-channel.png"  group-title="ENGLISH LIVE",(AMERICA)
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (RUSSIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/330px-National_Geographic_Wild_logo.svg.png"  group-title="ENGLISH LIVE",(RUSSIA)
+http://188.35.9.5:10020/stolen/487n/hot.dll
