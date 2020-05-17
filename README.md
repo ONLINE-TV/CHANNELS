@@ -445,3 +445,5 @@ https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 EXTINF:-1 ch-id="BBC WORLD NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(WORLD)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 ch-id="BOSTON 25 NEWS (USA)" tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg" group-title="ENGLISH LIVE",(AMERICA)
+https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
