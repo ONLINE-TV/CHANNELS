@@ -419,3 +419,5 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 #EXTINF:-1 ch-id="PORNO REINO (INT)" tvg-logo="https://pornoreino.com/images/logo.png"  group-title="XXX LIVE",(WORLD)
 http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 ch-id="HD FASHION & LIFESTYLE (EU)"  tvg-logo="http://live-hdfashion.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="ENGLISH LIVE",(EUROPE)
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
