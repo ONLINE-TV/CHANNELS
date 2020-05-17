@@ -431,5 +431,5 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 ch-id="CBSN (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/F66D4EFA-4398-4BB7-B8AA-5CBF2FE91368.jpeg"  group-title="ENGLISH LIVE",(AMERICA)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 ch-id=MBC BOLLYWOOD HD (ME)"  tvg-logo="https://echootv.com/gallery/channels_thumbs/0779288492530825045516537.png" group-title="HINDI LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)"  tvg-logo="https://echootv.com/gallery/channels_thumbs/0779288492530825045516537.png" group-title="HINDI LIVE",(MIDDLE EAST)
 http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1637.m3u8
