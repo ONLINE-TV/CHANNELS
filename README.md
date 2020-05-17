@@ -461,3 +461,5 @@ http://136.243.177.164/AXN/playlist.m3u8
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (MIDDLE EAST)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png" group-title="HINDI LIVE",(MIDDLE EAST)
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 ch-id="SONY SAB (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(AMERICA)
+http://185.246.209.251:9090/sabtv/index.m3u8?token=test
