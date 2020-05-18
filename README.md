@@ -467,3 +467,5 @@ http://185.246.209.251:9090/sonypal/index.m3u8?token=test
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="Zee TV HD (USA)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png" group-title="HINDI LIVE",(AMERICA) 
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
+#EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",INDIA)
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
