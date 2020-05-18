@@ -495,13 +495,4 @@ http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
 http://185.246.209.251:9090/zing/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZEE NEWS (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-zeenews/channel_list/1170x658_1952291981.png" group-title="HINDI LIVE",(INDIA)
 http://185.246.209.251:9090/zeenews/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(EUROPE) 
-http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672323.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
-http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672449.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(EUROPE) 
-http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/3983.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (UK)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/09/star-bharat-920x580-920x518.jpg" group-title="HINDI LIVE",(EUROPE) 
-http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/5544.m3u8
-#EXTINF:-1 ch-id="DRTUBER (INT)"  tvg-logo="https://p1.drtst.com/templates/drtuber/images/logo_new.png" group-title="XXX LIVE",(WORLD)
-http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/5500.m3u8
+
