@@ -469,3 +469,5 @@ https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdn
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",INDIA)
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
