@@ -7,7 +7,7 @@ http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zing/01.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/01.m3u8
-#EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="http://www.ass-media.de/pic/upload/2016/04/07/20160407113557-6c77f231.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh1.tvanywhere.ae/hls/star_world/01.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.76:8080/0.ts
