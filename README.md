@@ -471,3 +471,5 @@ http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
+#EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/tvhd_386x386_634196922.png" group-title="HINDI LIVE",(AMERICA)
+http://185.246.209.251:9090/andtv/index.m3u8?token=test
