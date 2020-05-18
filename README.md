@@ -487,3 +487,5 @@ http://185.246.209.251:9090/ddnational/index.m3u8?token=test
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1 ch-id="DD NATIONAL (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="HINDI LIVE",(INDIA)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+#EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",(INDIA)
+http://185.246.209.251:9090/zoom/index.m3u8?token=test
