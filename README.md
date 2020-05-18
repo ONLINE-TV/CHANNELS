@@ -499,3 +499,5 @@ http://185.246.209.251:9090/zing/index.m3u8?token=test
 http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(EUROPE) 
 http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672323.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
+http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672449.m3u8
