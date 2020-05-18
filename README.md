@@ -503,3 +503,5 @@ http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672449.m3u8
 http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/3983.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (UK)" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2017/09/star-bharat-920x580-920x518.jpg" group-title="HINDI LIVE",(EUROPE) 
 http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/5544.m3u8
+#EXTINF:-1 ch-id="DRTUBER (INT)"  tvg-logo="https://p1.drtst.com/templates/drtuber/images/logo_new.png" group-title="XXX LIVE",(WORLD)
+http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/5500.m3u8
