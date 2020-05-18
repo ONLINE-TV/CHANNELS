@@ -477,3 +477,5 @@ http://185.246.209.251:9090/andtv/index.m3u8?token=test
 http://185.246.209.251:9090/colors/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY TV HD (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(AMERICA) 
 http://185.246.209.251:9090/sony/index.m3u8?token=test
+#EXTINF:-1 ch-id="COLORS RISHTEY (USA)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="HINDI LIVE",(AMERICA)
+http://185.246.209.251:9090/rishtey/index.m3u8?token=test
