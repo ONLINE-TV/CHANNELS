@@ -473,3 +473,5 @@ http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/tvhd_386x386_634196922.png" group-title="HINDI LIVE",(AMERICA)
 http://185.246.209.251:9090/andtv/index.m3u8?token=test
+#EXTINF:-1 ch-id="AAPKA COLORS (USA)" tvg-logo="https://pbs.twimg.com/profile_images/1230017608851869697/kk8ds8H__400x400.jpg" group-title="HINDI LIVE",(AMERICA)
+http://185.246.209.251:9090/colors/index.m3u8?token=test
