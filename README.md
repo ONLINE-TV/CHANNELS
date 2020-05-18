@@ -501,3 +501,5 @@ http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672323.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
 http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/672449.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(EUROPE) 
+http://mytv.fun:8080/live/gz0i545yfe/i2x7gjq4a6/3983.m3u8
