@@ -489,3 +489,5 @@ http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",(INDIA)
 http://185.246.209.251:9090/zoom/index.m3u8?token=test
+#EXTINF:-1 ch-id="STAR WORLD HD (IND)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3eb790783a1626ee.jpg"  group-title="ENGLISH LIVE",(INDIA)
+http://185.246.209.251:9090/starworld/index.m3u8?token=test
