@@ -505,3 +505,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/28896.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1926.m3u8
 #EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1946.m3u8
+#EXTINF:-1 ch-id="SHEMAROO TV (IND)" tvg-logo="https://trak.in/wp-content/uploads/2020/04/Untitled-design-2-4-1280x720.jpg" group-title="HINDI LIVE",(INDIA)
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/55326.m3u8
