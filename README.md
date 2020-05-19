@@ -537,3 +537,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/28734.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1956.m3u8
 #EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2982.m3u8
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://i.pinimg.com/originals/3b/18/c6/3b18c6c8756dcec653e34087d329ce89.jpg" group-title="HINDI LIVE",(EUROPE)
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2979.m3u8
