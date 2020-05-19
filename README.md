@@ -500,4 +500,4 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2984.m3u8
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee_TV_Logo.jpg" group-title="HINDI LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1938.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg" group-title="HINDI LIVE",(EUROPE) 
-http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1880.m3u8
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/28896.m3u8
