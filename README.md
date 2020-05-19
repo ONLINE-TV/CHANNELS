@@ -11,8 +11,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/01.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/01.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="HINDI LIVE",(EUROPE)
-http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/13175.m3u8
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="ENGLISH LIVE",(ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="MUSIC INDIA (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="HINDI LIVE",(INDIA)
@@ -519,3 +517,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/55313.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1894.m3u8
 #EXTINF:-1 ch-id="SONY TV (APAC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="HINDI LIVE",(ASIA PACIFIC)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1908.m3u8
+#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(INDIA) 
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1907.m3u8
