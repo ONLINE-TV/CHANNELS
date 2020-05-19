@@ -523,3 +523,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1907.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1906.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (UK)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1910.m3u8
+#EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(EUROPE)
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1945.m3u8
