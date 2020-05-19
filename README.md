@@ -531,3 +531,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/55298.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1930.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(EUROPE) 
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1897.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(EUROPE) 
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/28734.m3u8
