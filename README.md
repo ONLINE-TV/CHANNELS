@@ -535,3 +535,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1897.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/28734.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1956.m3u8
+#EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX LIVE",(EUROPE)
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2982.m3u8
