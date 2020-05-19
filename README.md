@@ -511,3 +511,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/55326.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1887.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/604fa093ea947f28.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1892.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4069212d8d4f6920.jpg"  group-title="ENGLISH LIVE",(INDIA)
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1893.m3u8
