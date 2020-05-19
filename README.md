@@ -515,3 +515,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1892.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1893.m3u8
 #EXTINF:-1 ch-id="CARTOON NATWORK (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="ENGLISH LIVE",(INDIA)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/55313.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
+http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1895.m3u8
