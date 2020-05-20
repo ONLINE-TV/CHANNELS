@@ -542,3 +542,4 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2979.m3u8
 #EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="XXX LIVE" tvg-logo="https://telesputnik.ru/upload/iblock/68f/Brazzers-TV-Europe_b.jpg",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2977.m3u8
 #EXTINF:-1 ch-id="Zee TV HD (IND)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png" group-title="HINDI LIVE",(INDIA) 
+http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
