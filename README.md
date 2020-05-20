@@ -493,7 +493,7 @@ http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
 http://185.246.209.251:9090/zing/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZEE NEWS (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-zeenews/channel_list/1170x658_1952291981.png" group-title="HINDI LIVE",(INDIA)
 http://185.246.209.251:9090/zeenews/index.m3u8?token=test
-#EXTINF:-1 ch-id="EROTIC 6 (EU)" tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Pink-Erotic-6.jpg" group-title="XXX LIVE",(EUROPE)
+#EXTINF:-1 ch-id="ERO XXX HD EU)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eroxxx_box_hd.jpg" group-title="XXX LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2984.m3u8
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee_TV_Logo.jpg" group-title="HINDI LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1938.m3u8
