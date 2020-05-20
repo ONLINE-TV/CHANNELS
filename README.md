@@ -547,3 +547,5 @@ http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
 http://magco.rip/live/41246671289321/41604451921808/85134.m3u8
 #EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
+http://magco.rip/live/41246671289321/41604451921808/65361.m3u8
