@@ -523,7 +523,7 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1907.m3u8
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1906.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (UK)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1910.m3u8
-#EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg" group-title="HINDI LIVE",(EUROPE)
+#EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header.png" group-title="HINDI LIVE",(EUROPE)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/1945.m3u8
 #EXTINF:-1 ch-id="COLORS INFINITY (IND)" tvg-logo="https://bsmedia.business-standard.com/_media/bs/img/article/2016-08/01/full/1470060998-4451.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/55298.m3u8
@@ -545,3 +545,5 @@ http://mu01.v5iptv.com:8880/live/ZYXLM1440/jQat3oTche/2977.m3u8
 http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/85134.m3u8
+#EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
