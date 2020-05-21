@@ -571,3 +571,5 @@ http://magco.rip/live/41246671289321/41604451921808/78196.m3u8
 http://magco.rip/live/41246671289321/41604451921808/78192.m3u8
 EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
 http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
+#EXTINF:-1 ch-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/09/discovery-communications-llc-logo-vector.png" group-title="ENGLISH LIVE",(ASIA)
+http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
