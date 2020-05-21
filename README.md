@@ -557,3 +557,5 @@ http://magco.rip/live/41246671289321/41604451921808/65365.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65364.m3u8
 #EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="BENGALI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65362.m3u8
+#EXTINF:-1 ch-id="COLORS CINE PLEX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65338.m3u8
