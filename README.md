@@ -559,3 +559,5 @@ http://magco.rip/live/41246671289321/41604451921808/65364.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65362.m3u8
 #EXTINF:-1 ch-id="COLORS CINE PLEX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65338.m3u8
+#EXTINF:-1 ch-id="STAR WORLD PREMIERE HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/STAR_World_Premiere.jpg"  group-Title="ENGLISH LIVE",(INDIA) 
+http://magco.rip/live/41246671289321/41604451921808/65372.m3u8
