@@ -567,3 +567,5 @@ http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65374.m3u8
 #EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/News_live_logo_.png" group-title="ASSAMESE LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/78196.m3u8
+#EXTINF:-1 ch-id="PARAG NEWS (IN)" tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2016/06/PRAG-News-Today-300x154.jpg" group-title="ASSAMESE LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/78192.m3u8
