@@ -565,3 +565,5 @@ http://magco.rip/live/41246671289321/41604451921808/65372.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65374.m3u8
+#EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/News_live_logo_.png" group-title="ASSAMESE LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/78196.m3u8
