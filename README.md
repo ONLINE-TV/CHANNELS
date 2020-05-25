@@ -585,3 +585,5 @@ EXTINF:-1 ch-id="FOOD FOOD (IN)"  tvg-logo="https://www.foodfood.com/assets/imag
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18071.m3u8
 #EXTINF:-1 ch-id="ROMDEY NOW (IN)" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2018/06/Romedy-Now-Logo-550x267.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18082.m3u8
+#EXTINF:-1 ch-id="INDIA TV (IND)" tvg-logo="https://static.indiatvnews.com/ins-web/images/IndiaTV_500x500.png" group-title="HINDI LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18086.m3u8
