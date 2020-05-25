@@ -611,3 +611,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24303.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18147.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (UK)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(EUROPE) 
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18157.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18155.m3u8
