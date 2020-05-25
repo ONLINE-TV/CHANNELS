@@ -605,3 +605,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18138.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18142.m3u8
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/883px-SET_India_logo.svg.png" group-title="HINDI LIVE",(EUROPE)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18144.m3u8
+#EXTINF:-1 ch-id="SONY TV HD (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(EUROPE) 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24303.m3u8
