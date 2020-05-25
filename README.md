@@ -574,4 +574,4 @@ http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
 #EXTINF:-1 ch-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/09/discovery-communications-llc-logo-vector.png" group-title="ENGLISH LIVE",(ASIA)
 http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
 #EXTINF:-1 ch-id="STAR LIFE (ZA)"  tvg-logo="https://mk0bizasialivexmdoes.kinstacdn.com/wp-content/uploads/2018/08/StarLife001-1.jpg" group-title="ENGLISH LIVE",(AFRICA)
-http://red.ipfox.org:8080/liveEtronics_5YXq9S/lFFItvo3/3045.m3u8
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/3045.m3u8
