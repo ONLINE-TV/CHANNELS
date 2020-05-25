@@ -591,3 +591,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18086.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18107.m3u8
 #EXTINF:-1 ch-id="MTV (IND)" tvg-logo="http://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/490x490/public/images/biz/2015/10/13/mtv--pic.jpg"  group-title="HINDI LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18109.m3u8
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(EUROPE)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18121.m3u8
