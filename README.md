@@ -601,3 +601,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18136.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18129.m3u8
 #EXTINF:-1 ch-id="SONY PAL (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg"  group-title="HINDI LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18138.m3u8
+#EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="ENGLISH LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18142.m3u8
