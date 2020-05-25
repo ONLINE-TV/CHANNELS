@@ -581,3 +581,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18063.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18053.m3u8
 #EXTINF:-1 ch-id="B4U MOVIES (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png"  group-title="HINDI LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18052.m3u8
+EXTINF:-1 ch-id="FOOD FOOD (IN)"  tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png"  group-title="HINDI LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18071.m3u8
