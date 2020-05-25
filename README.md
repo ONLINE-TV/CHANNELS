@@ -567,7 +567,7 @@ http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65374.m3u8
 #EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/News_live_logo_.png" group-title="ASSAMESE LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/78196.m3u8
-#EXTINF:-1 ch-id="PARAG NEWS (IN)" tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2016/06/PRAG-News-Today-300x154.jpg" group-title="ASSAMESE LIVE",(INDIA)
+#EXTINF:-1 ch-id="PARAG NEWS (IN)" tvg-logo=" https://www.livetvmesh.com/wp-content/uploads/2016/06/PRAG-News-Today-300x154.jpg" group-title="ASSAMESE LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/78192.m3u8
 EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
 http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
@@ -583,3 +583,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18053.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18052.m3u8
 EXTINF:-1 ch-id="FOOD FOOD (IN)"  tvg-logo="https://www.foodfood.com/assets/images/logo/logo.png"  group-title="HINDI LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18071.m3u8
+#EXTINF:-1 ch-id="ROMDEY NOW (IN)" tvg-logo="https://www.televisionpost.com/wp-content/uploads/2018/06/Romedy-Now-Logo-550x267.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18082.m3u8
