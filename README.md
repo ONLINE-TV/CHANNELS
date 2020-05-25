@@ -589,3 +589,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18082.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18086.m3u8
 #EXTINF:-1 ch-id="LIVING FOODZ (IND)" tvg-logo="https://pbs.twimg.com/profile_images/978233088303140869/1Rwc5Igy.jpg" group-title="HINDI LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18107.m3u8
+#EXTINF:-1 ch-id="MTV (IND)" tvg-logo="http://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/490x490/public/images/biz/2015/10/13/mtv--pic.jpg"  group-title="HINDI LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18109.m3u8
