@@ -593,3 +593,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18107.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18109.m3u8
 #EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(EUROPE)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18121.m3u8
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18140.m3u8
