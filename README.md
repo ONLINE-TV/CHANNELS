@@ -575,3 +575,5 @@ http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
 #EXTINF:-1 ch-id="STAR LIFE (ZA)"  tvg-logo="https://mk0bizasialivexmdoes.kinstacdn.com/wp-content/uploads/2018/08/StarLife001-1.jpg" group-title="ENGLISH LIVE",(AFRICA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/3045.m3u8
+#EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://www.tellyupdates.com/wp-content/uploads/2020/01/colors.jpg"  group-title="HINDI LIVE",(EUROPE)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18063.m3u8
