@@ -629,3 +629,5 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg" group-title="HINDI LIVE",(MIDDLE EAST) 
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee_TV_Logo.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
