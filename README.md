@@ -623,3 +623,5 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(ASIA PACIFIC) 
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="HINDI LIVE",(INDIA)
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
