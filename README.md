@@ -631,3 +631,5 @@ https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE TV (APAC)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee_TV_Logo.jpg" group-title="HINDI LIVE",(ASIA PACIFIC)
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (IND)"  tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="ENGLISH LIVE",(INDIA)
+https://edge01.iptv.digijadoo.net/live/Nat_geo_wild/chunks.m3u8
