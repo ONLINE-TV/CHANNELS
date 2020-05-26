@@ -615,3 +615,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18157.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18155.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
