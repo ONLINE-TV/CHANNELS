@@ -619,3 +619,5 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (IND)" tvg-logo="http://www.indigital.co.in/upload/ChannelLogo/ChannelLogo_636414290430769620.png" group-title="HINDI LIVE",(INDIA) 
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1 ch-id="STAR WORLD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu_400x400.jpg"  group-title="HINDI LIVE",(INDIA) 
+https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
