@@ -635,3 +635,5 @@ https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/Nat_geo_wild/chunks.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18156.m3u8
+#EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="HINDI LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18066.m3u8
