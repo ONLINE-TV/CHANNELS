@@ -644,3 +644,4 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18161.m3u8
 #EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18178.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg" group-title="ENGLISH LIVE",(INDIA) 
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18177.m3u8
