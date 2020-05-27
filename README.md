@@ -639,3 +639,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18156.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18066.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4069212d8d4f6920.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18164.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/604fa093ea947f28.jpg"  group-title="ENGLISH LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18161.m3u8
