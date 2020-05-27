@@ -655,3 +655,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24318.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24319.m3u8
 #EXTINF:-1 ch-id="ID (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ID_2017.png"  group-title="ENGLISH LIVE",(EUROPE)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24323.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET  (UK)"  tvg-logo="https://www.georgiaaquarium.org/wp-content/uploads/2019/05/2019_animal_planet_logo-204x150.png"  group-title="ENGLISH LIVE",(EUROPE)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24325.m3u8
