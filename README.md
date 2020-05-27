@@ -649,3 +649,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18177.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18185.m3u8
 #EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18181.m3u8
+#EXTINF:-1 ch-id="DISCOVERY TURBO (UK)" tvg-logo="http://mandmglobal.com/wp-content/uploads/2014/12/Discovery-Turbo-600x460.jpg" group-title="ENGLISH LIVE",(EUROPE)
+http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
