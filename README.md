@@ -653,3 +653,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18181.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24318.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SHED (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="ENGLISH LIVE",(EUROPE)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24319.m3u8
+#EXTINF:-1 ch-id="ID (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ID_2017.png"  group-title="ENGLISH LIVE",(EUROPE)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24323.m3u8
