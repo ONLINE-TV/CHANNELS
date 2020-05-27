@@ -641,3 +641,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18066.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18164.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/604fa093ea947f28.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18161.m3u8
+#EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18178.m3u8
