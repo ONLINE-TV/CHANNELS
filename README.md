@@ -569,7 +569,7 @@ http://magco.rip/live/41246671289321/41604451921808/65374.m3u8
 http://magco.rip/live/41246671289321/41604451921808/78196.m3u8
 #EXTINF:-1 ch-id="PARAG NEWS (IN)" tvg-logo=" https://www.livetvmesh.com/wp-content/uploads/2016/06/PRAG-News-Today-300x154.jpg" group-title="ASSAMESE LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/78192.m3u8
-EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
+#EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
 http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
 #EXTINF:-1 ch-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/09/discovery-communications-llc-logo-vector.png" group-title="ENGLISH LIVE",(ASIA)
 http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
@@ -647,3 +647,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18178.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18177.m3u8
 #EXTINF:-1 ch-id="UTV HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg"  group-title="HINDI LIVE",(INDIA)
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18185.m3u8
+#EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18181.m3u8
