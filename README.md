@@ -645,3 +645,5 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18161.m3u8
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18178.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg" group-title="ENGLISH LIVE",(INDIA) 
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18177.m3u8
+#EXTINF:-1 ch-id="UTV HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg"  group-title="HINDI LIVE",(INDIA)
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18185.m3u8
