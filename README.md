@@ -431,3 +431,5 @@ http://210.210.155.66/h/h37/index.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 ch-id="KIK (ASIA)" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm.jpeg" group-title="ENGLISH LIVE",(ASIA)
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 ch-id="LIFE STYLE (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/c/cd/Lifestyle2015.png"  group-title="ENGLISH LIVE",(ASIA)
+http://210.210.155.66/h/h28/02.m3u8
