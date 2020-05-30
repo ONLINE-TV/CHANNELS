@@ -423,3 +423,5 @@ http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="ENGLISH LIVE",(ASIA)
 http://210.210.155.66/h/h29/02.m3u8
+#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="ENGLISH LIVE",(JAPAN)
+http://210.210.155.66/h/h23/01.m3u8
