@@ -421,3 +421,5 @@ http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
 http://130.185.150.79:1935/db24/starplus/playlist.m3u8
+#EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="ENGLISH LIVE",(ASIA)
+http://210.210.155.66/h/h29/02.m3u8
