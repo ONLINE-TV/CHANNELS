@@ -429,3 +429,5 @@ http://210.210.155.66/h/h23/01.m3u8
 http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENGLISH LIVE",(ASIA)
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 ch-id="KIK (ASIA)" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm.jpeg" group-title="ENGLISH LIVE",(ASIA)
+http://210.210.155.66/h/h07/01.m3u8
