@@ -433,3 +433,5 @@ http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 http://bit.ly/37Ir2n6
 #EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="ENGLISH LIVE",(ASIA)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
