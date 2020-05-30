@@ -425,3 +425,5 @@ http://130.185.150.79:1935/db24/starplus/playlist.m3u8
 http://210.210.155.66/h/h29/02.m3u8
 #EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="ENGLISH LIVE",(JAPAN)
 http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:-1 ch-id="HITTS (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="ENGLISH LIVE",(ASIA)
+http://210.210.155.66/h/h37/index.m3u8
