@@ -439,4 +439,5 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (IND)"  tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="ENGLISH LIVE",(INDIA)
 https://edge01.iptv.digijadoo.net/live/Nat_geo_wild/chunks.m3u8
-
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
+http://130.185.150.79:1935/db24/starplus/playlist.m3u8
