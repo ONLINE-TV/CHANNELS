@@ -433,3 +433,5 @@ http://210.210.155.66/h/h141/02.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 ch-id="LIFE STYLE (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/c/cd/Lifestyle2015.png"  group-title="ENGLISH LIVE",(ASIA)
 http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:-1 ch-id="ZEE THEATER (IN)" tvg-logo="https://www.zeeentertainment.com/wp-content/themes/zeetelevision/assets/images/live/Logos/zee-theatre.jpg" group-title="HINDI LIVE",(INDIA)
+http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
