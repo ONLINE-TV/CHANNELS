@@ -223,8 +223,6 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 #EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="XXX LIVE",(EUROPE) 
 http://188.35.9.11:21141/udp/214h
-#EXTINF:-1 ch-id="CHANNEL V (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/225px-Channel_V_Logo.svg.png" group-title="ENGLISH LIVE",(ASIA)
-https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="HINDI LIVE",(INDIA)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/tv/epg/images/ABC_320x180.png" group-title="ENGLISH LIVE",(AUSTRALIA)
@@ -261,7 +259,7 @@ https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="ENGLISH LIVE",(AMERICA)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  -nu/Al%2BFajer%2B2%2BTV.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  tvg-logo="https://4.bp.blogspot.com/-PjTABZzGffM/XVxj_S8zZrI/AAAAAAAAA-U/ug5snmTrH-MeABvi6YdF3iCnT5wG1IAVgCLcBGAs/s320/1901a861d-1_1%2B%25281%2529.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (ASIA)"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png"  group-title="ENGLISH LIVE",(ASIA)
 http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
