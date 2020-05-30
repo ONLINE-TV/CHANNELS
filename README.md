@@ -437,3 +437,5 @@ http://210.210.155.66/h/h28/02.m3u8
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 #EXTINF:-1 ch-id="VIVID RED HD (INT)" tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="XXX LIVE",(EUROPE)
 http://bit.ly/37Ir2n6
+#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="ENGLISH LIVE",(ASIA)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
