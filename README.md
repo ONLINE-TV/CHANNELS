@@ -212,7 +212,7 @@ http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 ch-id="DUCK TV (ME)" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/ducktv.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="HINDI LIVE",(MIDDLE EAST)
-http://livecdnh3.tvanywhere.ae/hls/rishtey/index.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rishtey/01.m3u8
 #EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/thumbv_20191205_011236.jpg"  group-title="HINDI LIVE",(AMERICA)
