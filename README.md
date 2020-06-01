@@ -385,7 +385,7 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/in
 http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/85134.m3u8
-#EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/cWdPghnG.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65361.m3u8
