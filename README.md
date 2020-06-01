@@ -435,3 +435,5 @@ http://bit.ly/37Ir2n6
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(EUROPE) 
+http://magco.rip/live/41246671289321/41604451921808/75317.m3u8
