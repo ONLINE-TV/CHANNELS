@@ -367,8 +367,6 @@ https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 EXTINF:-1 ch-id="BBC WORLD NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(WORLD)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 ch-id="BOSTON 25 NEWS (USA)" tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg" group-title="ENGLISH LIVE",(AMERICA)
-https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
 #EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="HINDI LIVE",(INDIA)
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (RUSSIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/330px-National_Geographic_Wild_logo.svg.png"  group-title="ENGLISH LIVE",(RUSSIA)
@@ -447,3 +445,5 @@ http://185.246.209.251:9090/sony/index.m3u8?token=test
 http://185.246.209.251:9090/rishtey/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png" group-title="ENGLISH LIVE",(INDIA)
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
+#EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
