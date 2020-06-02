@@ -443,3 +443,5 @@ http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 http://185.246.209.251:9090/colors/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY TV HD (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(AMERICA) 
 http://185.246.209.251:9090/sony/index.m3u8?token=test
+#EXTINF:-1 ch-id="COLORS RISHTEY (US)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="HINDI LIVE",(AMERICA)
+http://185.246.209.251:9090/rishtey/index.m3u8?token=test
