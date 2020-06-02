@@ -439,5 +439,4 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://magco.rip/live/41246671289321/41604451921808/75317.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(INDIA)
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
-http://clientbox.tv/live/Gg4F3cVsYf/1826035512/15258.m3u8
+
