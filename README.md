@@ -459,3 +459,5 @@ http://185.246.209.251:9090/ddnational/index.m3u8?token=test
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=uLys6&v=20200308
 #EXTINF:-1 ch-id="BINDASS (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png"  group-title="HINDI LIVE",(INDIA)
 http://45.120.188.65:8080/0.ts
+#EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",(INDIA)
+http://185.246.209.251:9090/zoom/index.m3u8?token=test
