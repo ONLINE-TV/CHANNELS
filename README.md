@@ -439,4 +439,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://magco.rip/live/41246671289321/41604451921808/75317.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(INDIA)
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-
+#EXTINF:-1 ch-id="AAPKA COLORS (US)" tvg-logo="https://pbs.twimg.com/profile_images/1230017608851869697/kk8ds8H__400x400.jpg" group-title="HINDI LIVE",(AMERICA)
+http://185.246.209.251:9090/colors/index.m3u8?token=test
+#EXTINF:-1 ch-id="SONY TV HD (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(AMERICA) 
+http://185.246.209.251:9090/sony/index.m3u8?token=test
