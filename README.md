@@ -451,3 +451,5 @@ http://185.246.209.251:9090/sonypal/index.m3u8?token=test
 http://185.246.209.251:9090/zeetv/index.m3u8?token=test
 #EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(AMERICA)
 http://185.246.209.251:9090/andtv/index.m3u8?token=test
+#EXTINF:-1 ch-id="SONY SAB (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(AMERICA) 
+http://185.246.209.251:9090/sabtv/index.m3u8?token=test
