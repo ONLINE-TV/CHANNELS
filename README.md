@@ -455,3 +455,5 @@ http://185.246.209.251:9090/andtv/index.m3u8?token=test
 http://185.246.209.251:9090/sabtv/index.m3u8?token=test
 #EXTINF:-1 ch-id="DD NATIONAL HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png"   group-title="HINDI LIVE",(INDIA)
 http://185.246.209.251:9090/ddnational/index.m3u8?token=test
+#EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1.png" group-title="ENGLISH LIVE",(ASIA)
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=uLys6&v=20200308
