@@ -353,8 +353,6 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 ch-id="CBSN (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/F66D4EFA-4398-4BB7-B8AA-5CBF2FE91368.jpeg"  group-title="ENGLISH LIVE",(AMERICA)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)"  tvg-logo="http://my-hd.tv/shared/img/channels/MBC-Bollywood.gif" group-title="HINDI LIVE",(MIDDLE EAST)
-http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1637.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="ENGLISH LIVE",(WORLD)
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 ch-id="NAT GEO WILD (ASIA)"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(ASIA)
@@ -449,3 +447,5 @@ http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
 #EXTINF:-1 ch-id="SONY PAL (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png"  group-title="HINDI LIVE",(AMERICA) 
 http://185.246.209.251:9090/sonypal/index.m3u8?token=test
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(AMERICA) 
+http://185.246.209.251:9090/zeetv/index.m3u8?token=test
