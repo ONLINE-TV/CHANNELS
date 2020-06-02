@@ -387,7 +387,7 @@ http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65361.m3u8
 #EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg"  group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65363.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Star_Bharat_HD_logo.jpg" group-title="HINDI LIVE",(INDIA) 
+#EXTINF:-1 ch-id="STAR BHARAT HD (IND)" tvg-logo="https://i.vimeocdn.com/video/779764959.jpg"  group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65365.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65364.m3u8
