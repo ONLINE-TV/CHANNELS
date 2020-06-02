@@ -447,3 +447,5 @@ http://185.246.209.251:9090/rishtey/index.m3u8?token=test
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
+#EXTINF:-1 ch-id="SONY PAL (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png"  group-title="HINDI LIVE",(AMERICA) 
+http://185.246.209.251:9090/sonypal/index.m3u8?token=test
