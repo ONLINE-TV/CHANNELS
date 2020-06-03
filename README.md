@@ -477,3 +477,5 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 ch-id="AND PICTURES HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="HINDI LIVE",(AMERICA)
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1 ch-id="ENGLISH CLUB TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="ENGLISH LIVE",(EUROPE)
+http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
