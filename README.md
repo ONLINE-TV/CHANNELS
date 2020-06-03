@@ -483,5 +483,5 @@ http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ch-id="WB TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="ENGLISH LIVE",(ASIA)
 http://203.154.243.89:11205/
-#EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo=" " group-title="XXX LIVE",(EUROPE)
+#EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-89-it.png" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.12:21121/udp/129i
