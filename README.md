@@ -463,3 +463,5 @@ http://45.120.188.65:8080/0.ts
 http://185.246.209.251:9090/zoom/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
 http://185.246.209.251:9090/zing/index.m3u8?token=test
+#EXTINF:-1 ch-id="STAR WORLD HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3eb790783a1626ee.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://185.246.209.251:9090/starworld/index.m3u8?token=test
