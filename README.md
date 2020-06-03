@@ -467,3 +467,5 @@ http://185.246.209.251:9090/zing/index.m3u8?token=test
 http://185.246.209.251:9090/starworld/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeebusiness/list_clean/09zeebusinessze_1655185285.png" group-title="HINDI LIVE",(INDIA) 
 http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeenews/list/09zeenewszeenews.jpg" group-title="HINDI LIVE",(INDIA) 
+http://185.246.209.251:9090/zeenews/index.m3u8?token=test
