@@ -471,3 +471,5 @@ http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
 http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 #EXTINF:-1 ch-id="BABES TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/BABES_TV_2018_NOIR.png"  group-title="XXX LIVE",(EUROPE) 
 http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=bjDdTFdybdh4ugVg
+#EXTINF:-1 ch-id="AND FLIX HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/f9701eb943edcd16.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
