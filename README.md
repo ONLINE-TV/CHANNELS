@@ -479,3 +479,5 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1 ch-id="ENGLISH CLUB TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="ENGLISH LIVE",(EUROPE)
 http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
+http://136.243.177.164/HBO/playlist.m3u8
