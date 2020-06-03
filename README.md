@@ -475,3 +475,5 @@ http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=bjDdTFdybdh4ugVg
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:-1 ch-id="AND PICTURES HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="HINDI LIVE",(AMERICA)
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
