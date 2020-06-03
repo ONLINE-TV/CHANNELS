@@ -461,3 +461,5 @@ https://delivery.macan.live/stream/id_fox/index.m3u8?token=uLys6&v=20200308
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",(INDIA)
 http://185.246.209.251:9090/zoom/index.m3u8?token=test
+#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
+http://185.246.209.251:9090/zing/index.m3u8?token=test
