@@ -481,3 +481,5 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
 http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 ch-id="WB TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="ENGLISH LIVE",(ASIA)
+http://203.154.243.89:11205/
