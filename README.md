@@ -501,3 +501,5 @@ http://z5amshls.akamaized.net/andtvhdusa/tracks-v1a1/playlist.m3u8
 http://91.92.108.254:8080/udp/239.10.10.165:5000
 #EXTINF:-1 ch-id="ERO XXX HD (UK)"  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eroxxx_box_hd.jpg" group-title="XXX LIVE",(EUROPE)
 http://91.92.108.254:8080/udp/239.10.10.164:5000
+#EXTINF:-1 ch-id="HUSTLER TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hustler_tv_ca.jpg" group-title="XXX LIVE",(EUROPE)
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
