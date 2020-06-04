@@ -477,3 +477,5 @@ http://91.92.108.254:8080/udp/239.10.10.164:5000
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
 #EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
 http://103.144.200.7:8080/hls/zing/index.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
+http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
