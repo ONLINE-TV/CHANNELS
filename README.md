@@ -489,3 +489,5 @@ http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(AMERICA) 
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(EUROPE) 
+http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
