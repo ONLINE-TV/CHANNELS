@@ -435,38 +435,10 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://magco.rip/live/41246671289321/41604451921808/75317.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(INDIA)
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 ch-id="AAPKA COLORS (US)" tvg-logo="https://pbs.twimg.com/profile_images/1230017608851869697/kk8ds8H__400x400.jpg" group-title="HINDI LIVE",(AMERICA)
-http://185.246.209.251:9090/colors/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY TV HD (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(AMERICA) 
-http://185.246.209.251:9090/sony/index.m3u8?token=test
-#EXTINF:-1 ch-id="COLORS RISHTEY (US)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="HINDI LIVE",(AMERICA)
-http://185.246.209.251:9090/rishtey/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png" group-title="ENGLISH LIVE",(INDIA)
-http://185.246.209.251:9090/sonypix/index.m3u8?token=test
-#EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
-http://185.246.209.251:9090/starplus/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY PAL (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png"  group-title="HINDI LIVE",(AMERICA) 
-http://185.246.209.251:9090/sonypal/index.m3u8?token=test
-#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(AMERICA) 
-http://185.246.209.251:9090/zeetv/index.m3u8?token=test
-#EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(AMERICA)
-http://185.246.209.251:9090/andtv/index.m3u8?token=test
-#EXTINF:-1 ch-id="SONY SAB (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(AMERICA) 
-http://185.246.209.251:9090/sabtv/index.m3u8?token=test
-#EXTINF:-1 ch-id="DD NATIONAL HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png"   group-title="HINDI LIVE",(INDIA)
-http://185.246.209.251:9090/ddnational/index.m3u8?token=test
 #EXTINF:-1 ch-id="FOX (ASIA)"  tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1.png" group-title="ENGLISH LIVE",(ASIA)
 https://delivery.macan.live/stream/id_fox/index.m3u8?token=uLys6&v=20200308
 #EXTINF:-1 ch-id="BINDASS (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png"  group-title="HINDI LIVE",(INDIA)
 http://45.120.188.65:8080/0.ts
-#EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",(INDIA)
-http://185.246.209.251:9090/zoom/index.m3u8?token=test
-#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
-http://185.246.209.251:9090/zing/index.m3u8?token=test
-#EXTINF:-1 ch-id="STAR WORLD HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3eb790783a1626ee.jpg" group-title="ENGLISH LIVE",(INDIA)
-http://185.246.209.251:9090/starworld/index.m3u8?token=test
-#EXTINF:-1 ch-id="ZEE BUSINESS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeebusiness/list_clean/09zeebusinessze_1655185285.png" group-title="HINDI LIVE",(INDIA) 
-http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
 #EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeenews/list/09zeenewszeenews.jpg" group-title="HINDI LIVE",(INDIA) 
 http://185.246.209.251:9090/zeenews/index.m3u8?token=test
 #EXTINF:-1 ch-id="AND FLIX HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/f9701eb943edcd16.jpg" group-title="ENGLISH LIVE",(INDIA)
