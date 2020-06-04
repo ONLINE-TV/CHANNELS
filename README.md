@@ -503,3 +503,5 @@ http://91.92.108.254:8080/udp/239.10.10.165:5000
 http://91.92.108.254:8080/udp/239.10.10.164:5000
 #EXTINF:-1 ch-id="HUSTLER TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hustler_tv_ca.jpg" group-title="XXX LIVE",(EUROPE)
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
+http://103.144.200.7:8080/hls/zing/index.m3u8
