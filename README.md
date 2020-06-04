@@ -487,3 +487,5 @@ http://188.35.9.12:21121/udp/129i
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(AMERICA) 
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
