@@ -497,3 +497,5 @@ http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(AMERICA)
 http://z5amshls.akamaized.net/andtvhdusa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ch-id="PENTHOUSE QUICKIES (US)"  tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="XXX LIVE",(AMERICA)
+http://91.92.108.254:8080/udp/239.10.10.165:5000
