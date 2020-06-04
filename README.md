@@ -493,5 +493,7 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE SMILE (US)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI LIVE",(EUROPE) 
+#EXTINF:-1 ch-id="ZEE SMILE (US)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI LIVE",(AMERICA) 
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(AMERICA)
+http://z5amshls.akamaized.net/andtvhdusa/tracks-v1a1/playlist.m3u8
