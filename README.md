@@ -489,3 +489,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1061.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/52.m3u8
 #EXTINF:-1 ch-id="STAR WORLD (ME)"  tvg-logo="https://cdn.clipart.email/8646ff184c968b6138762e3c7a874e7c_casting-interior-designers-and-design-students-for-the-apartment-_960-896.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4370.m3u8
+#EXTINF:-1 ch-id="MTV (ASIA)"  tvg-logo="https://scontent.fshl1-1.fna.fbcdn.net/v/t31.0-1/cp0/e15/q65/p200x200/20988441_1388424021227467_1769846233461369435_o.jpg"  group-title="ENGLISH LIVE",(ASIA)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/8049.m3u8
