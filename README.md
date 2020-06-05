@@ -455,7 +455,7 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://203.154.243.89:11205/
 #EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-89-it.png" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.12:21121/udp/129i
-#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(MIDDLE EAST) 
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(MIDDLE EAST) 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
