@@ -493,3 +493,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4370.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/8049.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(INDIA) 
 http://216.144.250.174/Zee_TV_HD_01/playlist.m3u8
+#EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="HINDI LIVE",(MIDDLE EAST)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1068.m3u8
