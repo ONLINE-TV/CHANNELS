@@ -497,3 +497,5 @@ http://216.144.250.174/Zee_TV_HD_01/playlist.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1068.m3u8
 #EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(INDIA) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/325.m3u8
+#EXTINF:-1 ch-id="UTV MOVIES (IND)"  tvg-logo="http://content.osn.com/bob/745x419/UTM.jpg" group-title="HINDI LIVE",(INDIA)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1058.m3u8
