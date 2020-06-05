@@ -483,3 +483,5 @@ http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IND)" tvg-logo="https://i.ytimg.com/vi/qTw2InXC3vs/maxresdefault.jpg" group-title="HINDI LIVE",(INDIA)
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1061.m3u8
