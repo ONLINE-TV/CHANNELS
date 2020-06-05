@@ -483,13 +483,13 @@ http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IND)" tvg-logo="https://i.ytimg.com/vi/qTw2InXC3vs/maxresdefault.jpg" group-title="HINDI LIVE",(INDIA)
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(EUROPE) 
+#EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://i.pinimg.com/564x/ea/45/e3/ea45e365d3e2759b4d48c38073337bac.jpg" group-title="HINDI LIVE",(EUROPE) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1061.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/52.m3u8
 #EXTINF:-1 ch-id="STAR WORLD (ME)"  tvg-logo="https://cdn.clipart.email/8646ff184c968b6138762e3c7a874e7c_casting-interior-designers-and-design-students-for-the-apartment-_960-896.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4370.m3u8
-#EXTINF:-1 ch-id="MTV (ASIA)"  tvg-logo="https://scontent.fshl1-1.fna.fbcdn.net/v/t31.0-1/cp0/e15/q65/p200x200/20988441_1388424021227467_1769846233461369435_o.jpg"  group-title="HINDI LIVE",(ASIA)
+#EXTINF:-1 ch-id="MTV (ASIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/225px-MTV_Logo_2010.svg.png"  group-title="HINDI LIVE",(ASIA)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/8049.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(INDIA) VPN
 http://216.144.250.174/Zee_TV_HD_01/playlist.m3u8
