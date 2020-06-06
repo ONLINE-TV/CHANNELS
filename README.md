@@ -535,3 +535,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5638.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1056.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",(INDIA)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7888.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png"  group-title="HINDI LIVE",(INDIA) 
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/880.m3u8
