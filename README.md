@@ -531,3 +531,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32095.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/872.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5638.m3u8
+#EXTINF:-1 ch-id="ZEE BUSINESS (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebusiness/list/09zeebusinesszeebusiness.jpg" group-title="HINDI LIVE",(INDIA) 
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1056.m3u8
