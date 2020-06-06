@@ -507,7 +507,7 @@ http://tv-cdn.ihub.live:8083/StarPlus/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(MIDDLE EAST) 
 http://tv-cdn.ihub.live:8083/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="COLORS RISHTEY (APAC)"  tvg-logo="https://www.auditionform.in/news/wp-content/uploads/2020/03/Colors-Malayalam-Schedule-New-GEC-channel-Launching-by-VIACOM18.jpg" group-title="HINDI LIVE",(ASIA)
+#EXTINF:-1 ch-id="COLORS (APAC)"  tvg-logo="https://www.auditionform.in/news/wp-content/uploads/2020/03/Colors-Malayalam-Schedule-New-GEC-channel-Launching-by-VIACOM18.jpg" group-title="HINDI LIVE",(ASIA)
 http://tv-cdn.ihub.live:8083/Colors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4371.m3u8
@@ -551,3 +551,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/26605.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7703.m3u8
 #EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/cWdPghnG.png" group-title="HINDI LIVE",(INDIA)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5633.m3u8
+#EXTINF:-1 ch-id="COLORS (UK)"  tvg-logo="https://www.auditionform.in/news/wp-content/uploads/2020/03/Colors-Malayalam-Schedule-New-GEC-channel-Launching-by-VIACOM18.jpg" group-title="HINDI LIVE",(EUROPE)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1482.m3u8
