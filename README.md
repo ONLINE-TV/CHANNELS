@@ -515,3 +515,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4371.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/300.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(EUROPE) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/53.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 2 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg" group-title="ENGLISH LIVE",(INDIA) 
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5626.m3u8
