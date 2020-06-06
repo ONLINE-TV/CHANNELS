@@ -521,3 +521,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5626.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7699.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c98/1565806465261/2982c79ea663967de3023f10721f4d5d.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/17098.m3u8
+#EXTINF:-1 ch-id="ZEE TV (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(AMERICA) 
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/869.m3u8
