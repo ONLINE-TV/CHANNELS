@@ -553,3 +553,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7703.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5633.m3u8
 #EXTINF:-1 ch-id="COLORS (UK)"  tvg-logo="https://www.auditionform.in/news/wp-content/uploads/2020/03/Colors-Malayalam-Schedule-New-GEC-channel-Launching-by-VIACOM18.jpg" group-title="HINDI LIVE",(EUROPE)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1482.m3u8
+#EXTINF:-1 ch-id="COLORS BANGLA (IN)"  tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-tv-bangla-hd-logo-300x300.jpg"  group-title="BENGALI LIVE",(INDIA)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7903.m3u8
