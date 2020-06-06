@@ -511,3 +511,5 @@ http://tv-cdn.ihub.live:8083/ZeeCinema/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/Colors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4371.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS SELECT 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4b546a74300aa8e3.jpg" group-title="ENGLISH LIVE",(INDIA) 
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/300.m3u8
