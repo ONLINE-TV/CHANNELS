@@ -525,3 +525,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/17098.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/869.m3u8
 #EXTINF:-1 ch-id="ZEE TV (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(INDIA) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1053.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (IND)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(INDIA) VPN
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32095.m3u8
