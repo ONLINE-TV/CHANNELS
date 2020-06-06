@@ -545,3 +545,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/313.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1.m3u8
 #EXTINF:-1 ch-id="SONY MOVIES (UK)" tvg-logo="https://www.avforums.com/styles/avf/editorial/block//310ce24ee3608e8c57a85187aee00d8e_3x3.jpg" group-title="ENGLISH LIVE",(EUROPE)
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5774.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (UK)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(EUROPE)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/26605.m3u8
