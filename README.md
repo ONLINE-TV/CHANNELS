@@ -541,3 +541,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/880.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32096.m3u8
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(EUROPE) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/313.m3u8
+#EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="ENGLISH LIVE",(INDIA)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1.m3u8
