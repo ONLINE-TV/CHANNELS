@@ -517,3 +517,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/300.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/53.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS SELECT 2 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg" group-title="ENGLISH LIVE",(INDIA) 
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5626.m3u8
+#EXTINF:-1 ch-id="STAR WORLD HD (IND)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3eb790783a1626ee.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7699.m3u8
