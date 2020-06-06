@@ -505,3 +505,5 @@ http://tv-cdn.ihub.live:8083/StarPlusHD/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
 http://tv-cdn.ihub.live:8083/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(MIDDLE EAST) 
+http://tv-cdn.ihub.live:8083/ZeeCinema/tracks-v1a1/mono.m3u8
