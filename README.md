@@ -507,3 +507,5 @@ http://tv-cdn.ihub.live:8083/StarPlus/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8083/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(MIDDLE EAST) 
 http://tv-cdn.ihub.live:8083/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="COLORS RISHTEY (APAC)"  tvg-logo="https://www.auditionform.in/news/wp-content/uploads/2020/03/Colors-Malayalam-Schedule-New-GEC-channel-Launching-by-VIACOM18.jpg" group-title="HINDI LIVE",(ASIA)
+http://tv-cdn.ihub.live:8083/Colors/tracks-v1a1/mono.m3u8
