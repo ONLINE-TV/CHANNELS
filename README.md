@@ -321,8 +321,6 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (ID)"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="ENGLISH LIVE",(ASIA)
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 ch-id="KIDS CENTRAL (ASIA)" tvg-logo="https://ktrujillo409.files.wordpress.com/2016/11/kids-central.jpg"  group-title="ENGLISH LIVE",(ASIA)
-https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
 #EXTINF:-1 ch-id="SUDARSHAN NEWS (IN)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925787041s.png" group-title="HINDI LIVE",(INDIA)
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
 #EXTINF:-1 ch-id="SANSKAR TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1144658965/list/sanskarlogo386x386.jpg" group-title="HINDI LIVE",(INDIA)
@@ -395,7 +393,7 @@ http://magco.rip/live/41246671289321/41604451921808/65364.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65362.m3u8
 #EXTINF:-1 ch-id="COLORS CINE PLEX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65338.m3u8
-#EXTINF:-1 ch-id="STAR WORLD PREMIERE HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/STAR_World_Premiere.jpg"  group-Title="ENGLISH LIVE",(INDIA) 
+#EXTINF:-1 ch-id="STAR WORLD PREMIERE HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/STAR_World_Premiere.jpg"  group-title="ENGLISH LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65372.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
@@ -561,3 +559,5 @@ http://175.41.46.16:8081/hls/8.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c98/1565806465261/2982c79ea663967de3023f10721f4d5d.jpg"  group-title="ENGLISH LIVE",(INDIA)
+http://175.41.46.16:8081/hls/2.m3u8
