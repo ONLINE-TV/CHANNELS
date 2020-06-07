@@ -557,3 +557,5 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/1482.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7903.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IND)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
+http://175.41.46.16:8081/hls/1.m3u8
