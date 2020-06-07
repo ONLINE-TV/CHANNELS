@@ -563,3 +563,5 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ch-id="TATA SKY (IND)" tvg-logo="https://content.jdmagicbox.com/comp/pune/k7/020pxx20.xx20.110811184247.a9k7/catalogue/tata-sky-zone-kothrud-pune-dth-tv-broadcast-service-providers-nj3cp.jpg" group-title="HINDI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 ch-id="ABZY VOOL (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Abzy_Cool.jpeg"  group-title="HINDI LIVE",(INDIA)
+https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
