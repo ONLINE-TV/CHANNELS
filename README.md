@@ -569,3 +569,5 @@ https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 http://tv.flametv.design/zeee.m3u8?c=ztvme
 #EXTINF:-1 ch-id="ZEE CINEMA (US)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(AMERICA) 
 http://tv.flametv.design/zeee.m3u8?c=cinemausa
+#EXTINF:-1 ch-id="ZEE SMILE (US)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI LIVE",(AMERICA) 
+http://tv.flametv.design/zeee.m3u8?c=smileusa
