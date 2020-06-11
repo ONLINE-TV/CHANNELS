@@ -7,8 +7,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="HINDI LIVE",(INDIA)
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
-#EXTINF:-1 ch-id="HUSTLER HD (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX LIVE",(EUROPE)
-http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
 #EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="XXX LIVE",(WORLD)
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="XXX LIVE",(WORLD)
@@ -73,8 +71,6 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ch-id="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png" group-title="ENGLISH LIVE",(INDIA)
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY ESPN HD (IN)" tvg-logo="https://rvcyberworldhome.files.wordpress.com/2018/09/download-4.png"  group-title="ENGLISH LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY YAY (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="HINDI LIVE",(INDIA)
@@ -87,8 +83,6 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="TEZ (IN)" tvg-logo="https://i.pinimg.com/originals/20/c0/c2/20c0c2adb445ffd558ebe861bff220a8.png" group-title="HINDI LIVE",(INDIA)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
-#EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(INDIA) 
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY ESPN (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1280px-Sony_ESPN_logo.svg.png" group-title="ENGLISH LIVE",(INDIA) 
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="ENGLISH LIVE",(INDIA)
@@ -209,12 +203,6 @@ http://188.35.9.12:21121/udp/129i
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
-#EXTINF:-1 ch-id="PENTHOUSE QUICKIES (US)"  tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="XXX LIVE",(AMERICA)
-http://91.92.108.254:8080/udp/239.10.10.165:5000
-#EXTINF:-1 ch-id="ERO XXX HD (UK)"  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eroxxx_box_hd.jpg" group-title="XXX LIVE",(EUROPE)
-http://91.92.108.254:8080/udp/239.10.10.164:5000
-#EXTINF:-1 ch-id="HUSTLER TV (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hustler_tv_ca.jpg" group-title="XXX LIVE",(EUROPE)
-http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
 #EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
 http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
@@ -233,8 +221,6 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ch-id="TATA SKY (IND)" tvg-logo="https://content.jdmagicbox.com/comp/pune/k7/020pxx20.xx20.110811184247.a9k7/catalogue/tata-sky-zone-kothrud-pune-dth-tv-broadcast-service-providers-nj3cp.jpg" group-title="HINDI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1 ch-id="ABZY VOOL (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Abzy_Cool.jpeg"  group-title="HINDI LIVE",(INDIA)
-https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="HINDI LIVE",(EUROPE)
@@ -243,3 +229,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89039
 http://magco.rip/live/41246671289321//41604451921808/65361.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT HD (IN)"  tvg-logo="https://i.vimeocdn.com/video/779764959.jpg"  group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89095
+#EXTINF:-1 ch-id="COLORS (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"   group-title="HINDI LIVE",(EUROPE)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
