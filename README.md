@@ -245,3 +245,5 @@ http://tv.flametv.design/zeee.m3u8?c=smileusa
 http://tv.flametv.design/zeee.m3u8?c=zeetvsduk
 #EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(AMERICA)  
 http://tv.flametv.design/zeee.m3u8?c=ztvhdusa
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
+http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
