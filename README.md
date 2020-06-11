@@ -231,3 +231,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89095
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
 #EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(ASIA)
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:-1 ch-id="RK TV (US)"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/264.png" group-title="XXX LIVE",(AMERICA)
+http://188.35.9.26:5031/udp/058j
