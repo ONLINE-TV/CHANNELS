@@ -235,16 +235,6 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1 ch-id="ABZY VOOL (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Abzy_Cool.jpeg"  group-title="HINDI LIVE",(INDIA)
 https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(MIDDLE EAST) 
-http://tv.flametv.design/zeee.m3u8?c=ztvme
-#EXTINF:-1 ch-id="ZEE CINEMA (US)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(AMERICA) 
-http://tv.flametv.design/zeee.m3u8?c=cinemausa
-#EXTINF:-1 ch-id="ZEE SMILE (US)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI LIVE",(AMERICA) 
-http://tv.flametv.design/zeee.m3u8?c=smileusa
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
-http://tv.flametv.design/zeee.m3u8?c=zeetvsduk
-#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(AMERICA)  
-http://tv.flametv.design/zeee.m3u8?c=ztvhdusa
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="HINDI LIVE",(EUROPE)
