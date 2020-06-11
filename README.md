@@ -249,3 +249,5 @@ http://tv.flametv.design/zeee.m3u8?c=ztvhdusa
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
 http://iptvnexa.com:8080/live/nx3denizcicek/09042020dc/89039.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321//41604451921808/65361.m3u8
