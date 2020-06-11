@@ -133,8 +133,6 @@ http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/News_Time_Assam_new.jpeg" group-title="ASSAMESE LIVE",(INDIA)
 http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(EUROPE)
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-kids-ae.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 ch-id="NIMO TV (INT)" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/nimo-tv__2.jpg"group-title="ENGLISH LIVE",(EUROPE)
@@ -231,3 +229,5 @@ http://magco.rip/live/41246671289321//41604451921808/65361.m3u8
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89095
 #EXTINF:-1 ch-id="COLORS (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"   group-title="HINDI LIVE",(EUROPE)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
+#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(ASIA)
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
