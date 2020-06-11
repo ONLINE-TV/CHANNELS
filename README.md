@@ -159,8 +159,6 @@ https://www.djing.com/tv/live.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 ch-id="MTV (IN)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_india.jpg" group-title="HINDI LIVE",(INDIA)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
-#EXTINF:-1 ch-id="RETRO TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="ENGLISH LIVE",(EUROPE)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1 ch-id="M2O (UK)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" group-title="ENGLISH LIVE",(EUROPE)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 ch-id="MOVIES NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="ENGLISH LIVE",(INDIA)
