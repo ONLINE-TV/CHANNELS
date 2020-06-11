@@ -165,8 +165,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 ch-id="MOVIES NOW (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png" group-title="ENGLISH LIVE",(INDIA)
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 ch-id="MBC MAX HD (ME)" tvg-logo="http://my-hd.tv/shared/img/channels/MBC-MAX.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/01.m3u8
 #EXTINF:-1 ch-id="MNX (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png" group-title="ENGLISH LIVE",(INDIA)
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/09/23/unnamed.jpg" group-title="ENGLISH LIVE",(INDIA)
