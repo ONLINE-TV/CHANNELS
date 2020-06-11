@@ -1,12 +1,4 @@
 #EXTM3U TV
-#EXTINF:-1 ch-id="ZOOM (IND)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="HINDI LIVE",(INDIA)
-http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
-#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
-http://livecdnh1.tvanywhere.ae/hls/zing/01.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh1.tvanywhere.ae/hls/star_movies/01.m3u8
-#EXTINF:-1 ch-id="STAR WORLD HD (ME)"  tvg-logo="http://www.ass-media.de/pic/upload/2016/04/07/20160407113557-6c77f231.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh1.tvanywhere.ae/hls/star_world/01.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 ch-id="CNA (ASIA)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png" group-title="ENGLISH LIVE",(ASIA)
@@ -31,8 +23,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="ENGLISH LIVE",(ASIA PACIFIC)
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 ch-id="BOOMERANG HD (ME)" tvg-logo="https://r.dcs.redcdn.pl/http/o2/redefine/redb/th/thc9s15j2225tvtv1ure9i3tyonjvzxa.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(EUROPE)
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png" group-title="ENGLISH LIVE",(INDIA)
@@ -49,8 +39,6 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1 ch-id="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif" group-title="ENGLISH LIVE",(MIDDLE EAST)
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 ch-id="HISTORY2 (ME)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg" group-title="HINDI LIVE",(INDIA)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 ch-id="FASHION TV (PARIS)" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg" group-title="ENGLISH LIVE",(EUROPE)
@@ -61,10 +49,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="HINDI LIVE",(INDIA)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (APAC)" tvg-logo="https://indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg" group-title="HINDI LIVE",(ASIA PACIFIC) 
-http://137.59.155.253:8088/hls/Star_Plus.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
-http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 ch-id="NTV MOVIES (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg" group-title="HINDI LIVE",(EUROPE)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="http://www.mastiii.com/images/mastiii-logo-mew.png" group-title="HINDI LIVE",(INDIA)
@@ -81,12 +65,6 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 ch-id="TLC HD (IN)"  tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1556850779_logo-tlc-hd.png" group-title="HINDI LIVE",(INDIA)
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
-#EXTINF:-1 ch-id="NAT GEO (ME)" tvg-logo="https://pmcvariety.files.wordpress.com/2016/01/national-geographical-partners.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
-#EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ME)"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="http://pluspng.com/img-png/sony-hd-png-file-sony-max-india-png-658.png" group-title="HINDI LIVE",(INDIA)
@@ -203,16 +181,10 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1 ch-id="DABL (USA)" tvg-logo="https://kgeb.net/wp-content/uploads/2020/01/DABL-Subchannel-icon.png" group-title="ENGLISH LIVE",(AMERICA)
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
-#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1 ch-id="DUBAI ONE (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-#EXTINF:-1 ch-id="DUCK TV (ME)" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/ducktv.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
-#EXTINF:-1 ch-id="COLORS RISHTEY (ME)"  tvg-logo="https://assets.tvplayer.com/tvos/images/channels/238.png" group-title="HINDI LIVE",(MIDDLE EAST)
-http://livecdnh3.tvanywhere.ae/hls/rishtey/01.m3u8
 #EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/thumbv_20191205_011236.jpg"  group-title="HINDI LIVE",(AMERICA)
@@ -231,200 +203,6 @@ http://58.96.43.121:9981/stream/channelid/60031137
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/409730225
-#EXTINF:-1 ch-id="ZEE ACTION (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png"  group-title="HINDI LIVE",(INDIA) 
-http://livecdnh1.tvanywhere.ae/hls/zee_action/index.m3u8
-#EXTINF:-1 ch-id="PEOPLE TV (USA)"  tvg-logo="https://www.vondecarlo.com/wp-content/uploads/2018/10/peopletv.png" group-title="ENGLISH LIVE",(AMERICA)
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 ch-id="DISCOVERY SCIENCE HD (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1665.m3u8
-#EXTINF:-1 ch-id="FOX HD (ME)"  tvg-logo="https://i.dlpng.com/static/png/504956_preview.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1661.m3u8
-#EXTINF:-1 ch-id="FOX LIFE HD (ME)"  tvg-logo="http://my-hd.tv/shared/img/channels/Fox-Life.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1659.m3u8
-#EXTINF:-1 ch-id="STAR MOVIES HD (ME)"  tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://51.159.21.231:2052/live/sourcemyhdpro2/649471534@/1650.m3u8
-#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/hSoxdVwHws57ZO6bv3KAH/8f3b2d1c60a867349e91ff1cf4ceb54c/masalatv_logo.jpg" group-title="HINDI LIVE",(PAKISTAN)
-https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
-#EXTINF:-1 ch-id="ZEE HINDUSTAN (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png" group-title="HINDI LIVE",(INDIA)
-http://103.144.200.7:8080/hls/zeetv/index.m3u8
-#EXTINF:-1 ch-id="ENGLISH CLUB TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="ENGLISH LIVE",(EUROPE)
-http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
-#EXTINF:-1 ch-id="TELESUR HD (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="ENGLISH LIVE",(AMERICA)
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 ch-id="CBN NEWS (INT)" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="ENGLISH LIVE",(AMERICA)
-https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1 ch-id="TV BRICS (RU)" tvg-logo="https://tvkinoradio.ru/upload/images/Article/57/1c/77/571c77b48bc399af8a6a87b6ea2118fa.png" group-title="ENGLISH LIVE",(RUSSIA)
-https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="KOK FIGHTS TV (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lt-kok-fights-tv-9251.jpg" group-title="ENGLISH LIVE",(AMERICA)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 ch-id="ALFAJER TV 2 (ME)"  tvg-logo="https://4.bp.blogspot.com/-PjTABZzGffM/XVxj_S8zZrI/AAAAAAAAA-U/ug5snmTrH-MeABvi6YdF3iCnT5wG1IAVgCLcBGAs/s320/1901a861d-1_1%2B%25281%2529.jpg"  group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (ASIA)"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png"  group-title="ENGLISH LIVE",(ASIA)
-http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="DISNEY CHANNEL HD (ME)" tvg-logo="https://i.pinimg.com/originals/f0/9f/d5/f09fd5ce65bb975ce820c9bc658b0431.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
-http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=460&t=live&f=ts
-#EXTINF:-1 ch-id="NASA TV (INT)" tvg-logo="https://image.roku.com/developer_channels/prod/0040c58f7922ab2791df41039efb6767dc5882f66e36d1179ec274dedf8cd620.png" group-title="ENGLISH LIVE",(AMERICA)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 ch-id="BEACH TV (USA)"  tvg-logo="https://image.roku.com/developer_channels/prod/e3d242996c23060fc364d9cac1fa8607a49650cc0f1bb35593ab9fda18737757.png" group-title="ENGLISH LIVE",(AMERICA)
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 ch-id="THE Q INDIA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/The_Q_India.jpg" group-title="HINDI LIVE",(INDIA)
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1 ch-id="RK TV (UK)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="XXX LIVE",(EUROPE)
-http://188.35.9.26:5031/udp/058j
-#EXTINF:-1 ch-id="BLOOMBERG (ASIA)" tvg-logo="https://panxchange.com/wp-content/uploads/2020/01/bloombergahavagroupglobal.png" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 ch-id="HD FASHION & LIFESTYLE (RU)" tvg-logo="https://www.neplpadome.lv/lv/assets/images/Programmu%20logo/hd_fashion_ua_logo.jpg" group-title="ENGLISH LIVE",(RUSSIA)
-https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 ch-id="CNBC TV 18 (IN)" tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="ENGLISH LIVE",(INDIA) 
-https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
-EXTINF:-1 ch-id="THE WEATHER CHANNELS (USA)" tvg-logo="https://www.pngitem.com/pimgs/m/74-746370_weather-channel-hd-png-download.png" group-title="ENGLISH LIVE",(AMERICA)
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 ch-id="WEATHER NATION (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="ENGLISH LIVE",(AMERICA)
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 ch-id="DW (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/225px-Deutsche_Welle_symbol_2012.svg.png" group-title="ENGLISH LIVE",(ASIA)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 ch-id="CNBC AWAAZ (IN)" tvg-logo="https://pbs.twimg.com/profile_images/884283573913571329/BgLmFh7u_400x400.jpg" group-title="HINDI LIVE",(INDIA)
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 ch-id="LSTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="HINDI LIVE",(INDIA)
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 ch-id="AUSTRALIA CHANNEL (AU)" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 ch-id="BLOOMBERG TV (AU)" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 ch-id="RACING.COM (AU)" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="ENGLISH LIVE",(AUSTRALIA)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET (ASIA)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="ENGLISH LIVE",(INDIA)
-https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
-#EXTINF:-1 ch-id="FOX CRIME (ASIA)" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/6/61/Fox_Crime_Philippines_Logo_2017.png" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1,ch-id="AL JAZEERA (INT)" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6_400x400.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST)
-https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
-#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
-#EXTINF:-1 ch-id="ZOOM (IN)"  tvg-logo="https://gumlet.assettype.com/thequint/2018-04/eb848cad-ca7d-4fbb-848b-839b45e245b9/04fc69b3d65f090543a75175a20656c6.jpg"  group-title="HINDI LIVE",(INDIA)
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:-1 ch-id="AST TV (EU)" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="XXX LIVE",(EUROPE)
-https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 ch-id="FAITH (US)" tvg-logo="https://pbs.twimg.com/profile_images/1059017293152292866/jDI6KZss.jpg" group-title="ENGLISH LIVE",(AMERICA)
-http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1 ch-id="BEK (UK)"  tvg-logo="https://www.dakotacentral.com/wp-content/uploads/2019/09/bek_broadcasting.png"  group-title="ENGLISH LIVE",(EUROPE)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 ch-id="FOOD NETWORK (USA)" tvg-logo="https://www.pngfind.com/pngs/m/36-364764_food-network-logo-png-food-network-logo-white.png" group-title="ENGLISH LIVE",(AMERICA)
-http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 ch-id="BBC NEWS (UK)" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/13551/production/_91758197_p01tlf61.jpg" group-title="ENGLISH LIVE",(EUROPE)
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 ch-id="ZEE BANGLA (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebangla/list/zee_bangla_386x3_745970677.jpg" group-title="BENGALI LIVE",(INDIA)
-http://43.251.86.2:8080/hls/channel_1.m3u8
-#EXTINF:-1 ch-id="SUDARSHAN NEWS (IN)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925787041s.png" group-title="HINDI LIVE",(INDIA)
-http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
-#EXTINF:-1 ch-id="SANSKAR TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1144658965/list/sanskarlogo386x386.jpg" group-title="HINDI LIVE",(INDIA)
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-#EXTINF:-1 ch-id="SATSANG TV (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-channel_1565694979/list/satsang386x386_1164840092.jpg" group-title="HINDI LIVE",(INDIA)
-https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
-#EXTINF:-1 ch-id="SADHNA BHAKTI TV (IN)" tvg-logo="https://images.jdmagicbox.com/comp/noida/22/011p127422/catalogue/sadhna-tv-noida-sector-10-noida-satellite-channels-lzxqx5ej92.jpg" group-title="HINDI LIVE",(INDIA)
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1 ch-id="100AUTOMOTO TV (USA)"  tvg-logo="http://www.dealood.com/content/uploads/images/September2019/bg-100-auto-moto-tv[1]-large.jpg" group-title="ENGLISH LIVE",(AMERICA)
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 ch-id="AMAR UJALA (IND)" tvg-logo="https://samachar4media.gumlet.com/22527_amar-ujala.jpg" group-title="HINDI LIVE",(INDIA)
-http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 ch-id="MUSIC BOX (UK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/ef/Music_Box_logo.png"  group-title="ENGLISH LIVE",(EUROPE)
-http://hls.clubplus.eu/ch09/index.m3u8
-#EXTINF:-1 ch-id="TRT WORLD (INT)" tvg-logo="https://www.danielmekonnen.com/wp-content/uploads/2020/01/afb285c992c744fe83f01388e262b839.png" group-title="ENGLISH LIVE",(WORLD)
-http://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 ch-id="VYAS (IND)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-vyas-channel-5512.jpg" group-title="HINDI LIVE",(INDIA)
-http://playhls.media.nic.in/live/vyas-360p/index.m3u8
-#EXTINF:-1 ch-id="HD FASHION & LIFESTYLE (EU)"  tvg-logo="http://live-hdfashion.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="ENGLISH LIVE",(EUROPE)
-https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 ch-id="SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="HINDI LIVE",(INDIA) 
-http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="ENGLISH LIVE",(INDIA)
-http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
-#EXTINF:-1 ch-id="RT (RUS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="ENGLISH LIVE",(RUSSIA)
-http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
-#EXTINF:-1 ch-id="PTV SPORTS (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="ENGLISH LIVE",(PAKISTAN)
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 ch-id="CBSN (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/F66D4EFA-4398-4BB7-B8AA-5CBF2FE91368.jpeg"  group-title="ENGLISH LIVE",(AMERICA)
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 ch-id="STAR SPORTS (INT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="ENGLISH LIVE",(WORLD)
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 ch-id="NAT GEO WILD (ASIA)"  tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg"  group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
-#EXTINF:-1 ch-id="NAT GEO PEOPLE (ASIA)"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
-#EXTINF:-1 ch-id="FOX LIFE  (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1013545522618097664/_Zd70OIU_400x400.jpg" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
-#EXTINF:-1 ch-id="HISTORY (ASIA)" tvg-logo="https://www.adgully.com/img/400/201710/tv-18_2.jpg" group-title="ENGLISH LIVE",(ASIA)
-https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-EXTINF:-1 ch-id="BBC WORLD NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(WORLD)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="HINDI LIVE",(INDIA)
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (RUSSIA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/330px-National_Geographic_Wild_logo.svg.png"  group-title="ENGLISH LIVE",(RUSSIA)
-http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="ENGLISH LIVE",(ASIA)
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 ch-id="CARTOON NATWORK (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="ENGLISH LIVE",(ASIA)
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (MIDDLE EAST)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png" group-title="HINDI LIVE",(MIDDLE EAST)
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="HINDI LIVE",(INDIA)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-#EXTINF:-1 ch-id="Zee TV HD (IND)" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928290210341062_zee-tv-hd.png" group-title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/85134.m3u8
-#EXTINF:-1 ch-id="COLORS TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/cWdPghnG.png" group-title="HINDI LIVE",(INDIA)
-http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IND)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/65361.m3u8
-#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg"  group-title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/65363.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT HD (IND)" tvg-logo="https://i.vimeocdn.com/video/779764959.jpg"  group-title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/65365.m3u8
-#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/65364.m3u8
-#EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="BENGALI LIVE",(INDIA)
-http://magco.rip/live/41246671289321/41604451921808/65362.m3u8
-#EXTINF:-1 ch-id="COLORS CINE PLEX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="HINDI LIVE",(INDIA)
-http://magco.rip/live/41246671289321/41604451921808/65338.m3u8
-#EXTINF:-1 ch-id="STAR WORLD PREMIERE HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/STAR_World_Premiere.jpg"  group-title="ENGLISH LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/65372.m3u8
-#EXTINF:-1 ch-id="SONY TV HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="HINDI LIVE",(INDIA) 
-http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
-#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
-http://magco.rip/live/41246671289321/41604451921808/65374.m3u8
-#EXTINF:-1 ch-id="NEWS LIVE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/News_live_logo_.png" group-title="ASSAMESE LIVE",(INDIA)
-http://magco.rip/live/41246671289321/41604451921808/78196.m3u8
-#EXTINF:-1 ch-id="PARAG NEWS (IN)" tvg-logo=" https://www.livetvmesh.com/wp-content/uploads/2016/06/PRAG-News-Today-300x154.jpg" group-title="ASSAMESE LIVE",(INDIA)
-http://magco.rip/live/41246671289321/41604451921808/78192.m3u8
-#EXTINF:-1 ch-id="TEN SPORTS (PK)"  tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="ENGLISH LIVE",(PAKISTAN)
-http://magco.rip/live/41246671289321/41604451921808/65393.m3u8
-#EXTINF:-1 ch-id="DISCOVERY CHANNEL (IN)" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/09/discovery-communications-llc-logo-vector.png" group-title="ENGLISH LIVE",(ASIA)
-http://magco.rip/live/41246671289321/41604451921808/65383.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
-http://130.185.150.79:1935/db24/starplus/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE THEATER (IN)" tvg-logo="https://www.zeeentertainment.com/wp-content/themes/zeetelevision/assets/images/live/Logos/zee-theatre.jpg" group-title="HINDI LIVE",(INDIA)
-http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
-#EXTINF:-1 ch-id="VIVID RED HD (INT)" tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="XXX LIVE",(EUROPE)
-http://bit.ly/37Ir2n6
-#EXTINF:-1 ch-id="DUBAI ONE (ME)" tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="ENGLISH LIVE",(ASIA)
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (UK)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(EUROPE) 
-http://magco.rip/live/41246671289321/41604451921808/75317.m3u8
-#EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(INDIA)
-http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 ch-id="BINDASS (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png"  group-title="HINDI LIVE",(INDIA)
-http://45.120.188.65:8080/0.ts
-#EXTINF:-1 ch-id="AND FLIX HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/f9701eb943edcd16.jpg" group-title="ENGLISH LIVE",(INDIA)
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IND)" tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg" group-title="HINDI LIVE",(INDIA) 
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 ch-id="AND PICTURES HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-tvpictureshd/list_clean/09tvpictureshdp_2056662078.png" group-title="HINDI LIVE",(AMERICA)
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1 ch-id="ENGLISH CLUB TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png"  group-title="ENGLISH LIVE",(EUROPE)
-http://srv1.roshen.live/QtjebuvI9L/mpegts?token=bjDdTFdybdh4ugVg
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ch-id="WB TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="ENGLISH LIVE",(ASIA)
@@ -435,16 +213,6 @@ http://188.35.9.12:21121/udp/129i
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/09zeetvhdzeetvh_1914392493.png" group-title="HINDI LIVE",(AMERICA) 
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (US)" tvg-logo="https://www.zoomnews.in/uploads_2019/newses/774765-zee-cinema_11912526_sm.jpg" group-title="HINDI LIVE",(AMERICA) 
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
-http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="ZEE SMILE (US)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI LIVE",(AMERICA) 
-http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/1ZpahMbB.png" group-title="HINDI LIVE",(AMERICA)
-http://z5amshls.akamaized.net/andtvhdusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="PENTHOUSE QUICKIES (US)"  tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="XXX LIVE",(AMERICA)
 http://91.92.108.254:8080/udp/239.10.10.165:5000
 #EXTINF:-1 ch-id="ERO XXX HD (UK)"  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eroxxx_box_hd.jpg" group-title="XXX LIVE",(EUROPE)
