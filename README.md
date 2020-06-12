@@ -255,3 +255,5 @@ http://magco.rip/live/41246671289321/41604451921808/48825.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
 #EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/gZcwSo7Q.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png" group-title="ENGLISH LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
