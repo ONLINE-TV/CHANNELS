@@ -251,3 +251,5 @@ http://magco.rip/live/41246671289321/41604451921808/79016.m3u8
 http://magco.rip/live/41246671289321/41604451921808/79019.m3u8
 #EXTINF:-1 ch-id="NICK (UK)"  tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="ENGLISH LIVE",(EUROPE)
 http://magco.rip/live/41246671289321/41604451921808/48825.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)"  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/cWdPghnG.png" group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
