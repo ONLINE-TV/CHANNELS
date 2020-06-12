@@ -243,3 +243,5 @@ http://magco.rip/live/41246671289321/41604451921808/27573.m3u8
 http://magco.rip/live/41246671289321/41604451921808/27576.m3u8
 #EXTINF:-1 ch-id="MTV (ZA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",(AFRICA)
 http://magco.rip/live/41246671289321/41604451921808/79010.m3u8
+#EXTINF:-1 ch-id="DISCOVERY (ZA)"  tvg-logo="https://i.vimeocdn.com/video/772286138_1280x720.jpg" group-title="ENGLISH LIVE",(AFRICA)
+http://magco.rip/live/41246671289321/41604451921808/79017.m3u8
