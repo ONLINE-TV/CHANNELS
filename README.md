@@ -237,3 +237,5 @@ http://magco.rip/live/41246671289321/41604451921808/65519.m3u8
 http://magco.rip/live/41246671289321/41604451921808/86605.m3u8
 #EXTINF:-1 ch-id="MTV (UK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/787px-MTV_Live_HD_2017_logo.svg.png" group-title="ENGLISH LIVE",(EUROPE)
 http://magco.rip/live/41246671289321/41604451921808/85468.m3u8
+#EXTINF:-1 ch-id="B4U PLUS (ME)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/B4U_Plus_new.jpeg" group-title="HINDI LIVE",(MIDDLE EAST)
+http://magco.rip/live/41246671289321/41604451921808/27573.m3u8
