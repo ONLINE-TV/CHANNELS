@@ -231,3 +231,5 @@ http://magco.rip/live/41246671289321/41604451921808/65366.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65368.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65369.m3u8
+#EXTINF:-1 ch-id="SONY CHANNEL (UK)"  tvg-logo="https://sonychannel.co.uk/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="ENGLISH LIVE",(EUROPE)
+http://magco.rip/live/41246671289321/41604451921808/65519.m3u8
