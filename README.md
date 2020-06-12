@@ -227,3 +227,5 @@ http://51.52.156.22:8888/http/003
 http://magco.rip/live/41246671289321/41604451921808/65367.m3u8
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/YhNZclhR.png" group-title="ENGLISH LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65366.m3u8
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="ENGLISH LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65368.m3u8
