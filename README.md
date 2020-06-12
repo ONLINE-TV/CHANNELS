@@ -13,8 +13,6 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 ch-id="VH1 (USA)"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg" group-title="ENGLISH LIVE",(AMERICA)
-http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ch-id="9XO (IN)" tvg-logo="https://www.adgully.com/img/800/50287_9xo.jpg" group-title="ENGLISH LIVE",(INDIA)
@@ -249,3 +247,5 @@ http://magco.rip/live/41246671289321/41604451921808/79017.m3u8
 http://magco.rip/live/41246671289321/41604451921808/79013.m3u8
 #EXTINF:-1 ch-id="ID (ZA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/220px-InvestigationDiscovery.png" group-title="ENGLISH LIVE",(AFRICA)
 http://magco.rip/live/41246671289321/41604451921808/79016.m3u8
+#EXTINF:-1 ch-id="NICK (ZA)"  tvg-logo="https://cdn.vox-cdn.com/thumbor/HL3skmc4NBWfe6qg6SjmsSsUIOQ=/0x80:1020x654/1600x900/cdn.vox-cdn.com/assets/1898349/nickelodeon_logo_1020.jpg" group-title="ENGLISH LIVE",(AFRICA)
+http://magco.rip/live/41246671289321/41604451921808/79019.m3u8
