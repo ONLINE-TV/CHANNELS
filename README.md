@@ -249,3 +249,5 @@ http://magco.rip/live/41246671289321/41604451921808/79013.m3u8
 http://magco.rip/live/41246671289321/41604451921808/79016.m3u8
 #EXTINF:-1 ch-id="NICK (ZA)"  tvg-logo="https://cdn.vox-cdn.com/thumbor/HL3skmc4NBWfe6qg6SjmsSsUIOQ=/0x80:1020x654/1600x900/cdn.vox-cdn.com/assets/1898349/nickelodeon_logo_1020.jpg" group-title="ENGLISH LIVE",(AFRICA)
 http://magco.rip/live/41246671289321/41604451921808/79019.m3u8
+#EXTINF:-1 ch-id="NICK (UK)"  tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="ENGLISH LIVE",(EUROPE)
+http://magco.rip/live/41246671289321/41604451921808/48825.m3u8
