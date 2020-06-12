@@ -247,3 +247,5 @@ http://magco.rip/live/41246671289321/41604451921808/79010.m3u8
 http://magco.rip/live/41246671289321/41604451921808/79017.m3u8
 #EXTINF:-1 ch-id="DISCOVERY REAL TIME (ZA)"  tvg-logo="https://2.bp.blogspot.com/-RT2w91jSwtk/W41zMLGBPcI/AAAAAAABPug/dywx3kTBcKAFGtIqXz3OOkG8KUCZLwB8gCLcBGAs/s1600/REAL%2BTIME%2BLOGO%255B1%255D.png" group-title="ENGLISH LIVE",(AFRICA)
 http://magco.rip/live/41246671289321/41604451921808/79013.m3u8
+#EXTINF:-1 ch-id="ID (ZA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/220px-InvestigationDiscovery.png" group-title="ENGLISH LIVE",(AFRICA)
+http://magco.rip/live/41246671289321/41604451921808/79016.m3u8
