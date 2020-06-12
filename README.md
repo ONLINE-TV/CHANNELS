@@ -139,8 +139,6 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 ch-id="CARTOON NATWORK (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="ENGLISH LIVE",(EUROPE)
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
-#EXTINF:-1 tvg-id="VH1 (USA)" tvg-logo="https://www.logolynx.com/images/logolynx/55/552d6c6fe344db49d7d9943e2a4b0dab.png" group-title="ENGLISH LIVE",(AMERICA)
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 ch-id="SBI MUSIC (PK)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="HINDI LIVE",(PAKISTAN)
 http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1 ch-id="MOOZ TV (USA)" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="ENGLISH LIVE",(AMERICA)
@@ -167,8 +165,6 @@ http://5.135.92.133:52841/out/u/107_1.m3u8
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="HINDI LIVE",(MIDDLE EAST)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:-1 ch-id="DABL (USA)" tvg-logo="https://kgeb.net/wp-content/uploads/2020/01/DABL-Subchannel-icon.png" group-title="ENGLISH LIVE",(AMERICA)
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1 ch-id="DUBAI ONE (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENGLISH LIVE",(MIDDLE EAST)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
@@ -183,18 +179,10 @@ http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="HINDI LIVE",(INDIA)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 ch-id="ABC (AUS)" tvg-logo="https://www.abc.net.au/tv/epg/images/ABC_320x180.png" group-title="ENGLISH LIVE",(AUSTRALIA)
-http://58.96.43.121:9981/stream/channelid/1303336422
-#EXTINF:-1 ch-id="ABC KIDS (AUS)" tvg-logo="https://cdn.iview.abc.net.au/thumbs/1200/ls/LS1604H001S00_5e6fc01191e7c_1920.jpg"  group-title="ENGLISH LIVE",(AUSTRALIA)
-http://58.96.43.121:9981/stream/channelid/60031137
 #EXTINF:-1 ch-id="ABC ME (AUS)" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/ABC-ME.jpg"  group-title="ENGLISH LIVE",(AUSTRALIA)
 http://58.96.43.121:9981/stream/channelid/739262830
-#EXTINF:-1 ch-id="ABC NEWS (AUS)" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg" group-title="ENGLISH LIVE",(AUSTRALIA)
-http://58.96.43.121:9981/stream/channelid/409730225
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",(ASIA)
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 ch-id="WB TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="ENGLISH LIVE",(ASIA)
-http://203.154.243.89:11205/
 #EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-89-it.png" group-title="XXX LIVE",(EUROPE)
 http://188.35.9.12:21121/udp/129i
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(MIDDLE EAST) 
