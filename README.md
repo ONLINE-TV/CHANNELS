@@ -229,3 +229,5 @@ http://magco.rip/live/41246671289321/41604451921808/65367.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65366.m3u8
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65368.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65369.m3u8
