@@ -224,4 +224,6 @@ http://188.35.9.26:5031/udp/058j
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="ENGLISH LIVE",(EUROPE)
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg" group-title="ENGLISH LIVE",(INDIA)
-http://magco.rip/live/41246671289321//41604451921808/65367.m3u8
+http://magco.rip/live/41246671289321/41604451921808/65367.m3u8
+#EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/YhNZclhR.png" group-title="ENGLISH LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65366.m3u8
