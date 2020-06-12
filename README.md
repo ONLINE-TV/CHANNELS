@@ -235,3 +235,5 @@ http://magco.rip/live/41246671289321/41604451921808/65369.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65519.m3u8
 #EXTINF:-1 ch-id="TLC HD (ME)" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130707/logo-tlc-hd-300x160.jpg" group-title="ENGLISH LIVE",(MIDDLE EAST) 
 http://magco.rip/live/41246671289321/41604451921808/86605.m3u8
+#EXTINF:-1 ch-id="MTV (UK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/787px-MTV_Live_HD_2017_logo.svg.png" group-title="ENGLISH LIVE",(EUROPE)
+http://magco.rip/live/41246671289321/41604451921808/85468.m3u8
