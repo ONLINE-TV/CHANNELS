@@ -263,3 +263,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89075
 http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
 #EXTINF:-1 ch-id="ABP NEW (IN)"  tvg-logo="https://www.abpnewsnetwork.com/wp-content/uploads/2019/03/abp-news.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/78154.m3u8
+#EXTINF:-1 ch-id="ZEE BANGLA HD (IN)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b7134d2d38b51045cf87eb7/1565809256512/6a5962de199ceea482a5ed552f355634.png"  group-title="BENGALI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/85133.m3u8
