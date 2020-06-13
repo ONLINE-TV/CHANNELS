@@ -247,9 +247,9 @@ http://magco.rip/live/41246671289321/41604451921808/79017.m3u8
 http://magco.rip/live/41246671289321/41604451921808/79013.m3u8
 #EXTINF:-1 ch-id="ID (ZA)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/220px-InvestigationDiscovery.png" group-title="ENGLISH LIVE",(AFRICA)
 http://magco.rip/live/41246671289321/41604451921808/79016.m3u8
-#EXTINF:-1 ch-id="NICK (ZA)"  tvg-logo="https://cdn.vox-cdn.com/thumbor/HL3skmc4NBWfe6qg6SjmsSsUIOQ=/0x80:1020x654/1600x900/cdn.vox-cdn.com/assets/1898349/nickelodeon_logo_1020.jpg" group-title="ENGLISH LIVE",(AFRICA)
+#EXTINF:-1 ch-id="NICK (ZA)"  tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="ENGLISH LIVE",(AFRICA)
 http://magco.rip/live/41246671289321/41604451921808/79019.m3u8
-#EXTINF:-1 ch-id="NICK (UK)"  tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="ENGLISH LIVE",(EUROPE)
+#EXTINF:-1 ch-id="NICK (UK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ENGLISH LIVE",(EUROPE)
 http://magco.rip/live/41246671289321/41604451921808/48825.m3u8
 #EXTINF:-1 ch-id="COLORS HD (IN)"  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/cWdPghnG.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
@@ -259,3 +259,5 @@ http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89075
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
