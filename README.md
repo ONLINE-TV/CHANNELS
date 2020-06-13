@@ -261,3 +261,5 @@ http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89075
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
+#EXTINF:-1 ch-id="ABP NEW (IN)"  tvg-logo="https://www.abpnewsnetwork.com/wp-content/uploads/2019/03/abp-news.png" group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/78154.m3u8
