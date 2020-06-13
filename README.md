@@ -267,3 +267,5 @@ http://magco.rip/live/41246671289321/41604451921808/78154.m3u8
 http://magco.rip/live/41246671289321/41604451921808/85133.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IN)"  tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg"  group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/85134.m3u8
+#EXTINF:-1 ch-id="ZEE NEWS (IN)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"  group-title="HINDI LIVE",(INDIA)
+http://magco.rip/live/41246671289321/41604451921808/85136.m3u8
