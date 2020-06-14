@@ -303,3 +303,4 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89069
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89082
 #EXTINF:-1 ch-id="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png" group-title="ENGLISH LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89083
+#EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="HINDI LIVE",(INDIA)
