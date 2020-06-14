@@ -283,3 +283,5 @@ http://magco.rip/live/41246671289321/41604451921808/65364.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65365.m3u8
 #EXTINF:-1 ch-id="HUM  (USA)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/hum-world-black.png"  group-title="HINDI LIVE",(AMERICA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/88743
+#EXTINF:-1 ch-id="AASHTA BHAJAN (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png"   group-title="HINDI LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89097
