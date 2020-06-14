@@ -313,3 +313,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89059
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89058
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://www.bindass.com/bundles/dibindass/images/bindass-logo.png" group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89057
+#EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://www.bindass.com/bundles/dibindass/images/bindass-logo.png" group-title="HINDI LIVE",(INDIA)
+http://45.120.188.65:8080/0.ts
