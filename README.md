@@ -291,3 +291,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89096
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89094
 #EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(AMERICA) 
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89091
+#EXTINF:-1 ch-id="ZEE NEWS (IN)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"  group-title="HINDI LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89090
