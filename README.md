@@ -311,3 +311,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89067
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89064
 #EXTINF:-1 ch-id="HBO HD (IN)" tvg-logo="https://i.ytimg.com/vi/BPz7GwV1Zuk/maxresdefault.jpg" group-title="ENGLISH LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89059
+#EXTINF:-1 ch-id="DISCOVERY (IN)"  tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="HINDI LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89058
