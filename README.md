@@ -305,3 +305,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89082
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89083
 #EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89068
+#EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/37/MTV_HD%2B.jpg" group-title="HINDI LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89066
