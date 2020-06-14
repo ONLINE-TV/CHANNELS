@@ -257,7 +257,7 @@ http://magco.rip/live/41246671289321/41604451921808/65388.m3u8
 http://magco.rip/live/41246671289321/41604451921808/65373.m3u8
 #EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png" group-title="ENGLISH LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
-#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
+#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-Title="HINDI LIVE",EUROPE) 
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89075
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
 http://magco.rip/live/41246671289321/41604451921808/65381.m3u8
