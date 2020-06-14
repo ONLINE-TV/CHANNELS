@@ -311,3 +311,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89066
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89067
 #EXTINF:-1 ch-id="LIVING FOODZ (IN)"  tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg" group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89064
+#EXTINF:-1 ch-id="HBO HD (IN)" tvg-logo="https://i.ytimg.com/vi/BPz7GwV1Zuk/maxresdefault.jpg" group-title="ENGLISH LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89059
