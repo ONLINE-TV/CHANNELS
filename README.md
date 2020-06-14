@@ -271,3 +271,5 @@ http://magco.rip/live/41246671289321/41604451921808/85134.m3u8
 http://magco.rip/live/41246671289321/41604451921808/85136.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
+#EXTINF:-1 ch-id="TRAVEL XP (UK)" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Travelxp_worlds_leading.jpg"  group-title="ENGLISH LIVE",(EUROPE)
+http://90.254.188.213:9981/stream/channelid/989294737
