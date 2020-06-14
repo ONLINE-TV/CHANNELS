@@ -297,3 +297,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89090
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89087
 #EXTINF:-1 ch-id="ZEE LIVING (US)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Z_Living_Logo.png"  group-title="ENGLISH LIVE",(AMERICA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89089
+#EXTINF:-1 ch-id="PTV SPORTS (PK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"  group-title="ENGLISH LIVE",(PAKISTAN)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89069
