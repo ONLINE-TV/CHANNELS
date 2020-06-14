@@ -311,7 +311,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89064
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89059
 #EXTINF:-1 ch-id="DISCOVERY (IN)"  tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89058
-#EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://www.bindass.com/bundles/dibindass/images/bindass-logo.png" group-title="HINDI LIVE",(INDIA)
-http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89057
-#EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://www.bindass.com/bundles/dibindass/images/bindass-logo.png" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.65:8080/0.ts
