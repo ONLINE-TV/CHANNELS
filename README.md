@@ -289,3 +289,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89097
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89096
 #EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="HINDI LIVE",(EUROPE)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89094
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(AMERICA) 
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89091
