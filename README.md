@@ -308,4 +308,6 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89068
 #EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/37/MTV_HD%2B.jpg" group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89066
 #EXTINF:-1 ch-id="MUSIC INDIA (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="HINDI LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89067
+#EXTINF:-1 ch-id="LIVING FOODZ (IN)"  tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg" group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89064
