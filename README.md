@@ -300,4 +300,6 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89089
 #EXTINF:-1 ch-id="PTV SPORTS (PK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"  group-title="ENGLISH LIVE",(PAKISTAN)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89069
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/YhNZclhR.png" group-title="ENGLISH LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89082
+#EXTINF:-1 ch-id="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png" group-title="ENGLISH LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89083
