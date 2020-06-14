@@ -285,3 +285,5 @@ http://magco.rip/live/41246671289321/41604451921808/65365.m3u8
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/88743
 #EXTINF:-1 ch-id="AASHTA BHAJAN (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png"   group-title="HINDI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89097
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="HINDI LIVE",(EUROPE)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89096
