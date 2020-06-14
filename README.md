@@ -295,3 +295,5 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89091
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89090
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="BENGALI LIVE",(INDIA)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89087
+#EXTINF:-1 ch-id="ZEE LIVING (US)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Z_Living_Logo.png"  group-title="ENGLISH LIVE",(AMERICA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89089
