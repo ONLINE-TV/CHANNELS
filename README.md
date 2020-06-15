@@ -95,8 +95,6 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="ENGLISH LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 ch-id="DD KISAN (IN)" tvg-logo="https://webcast.gov.in/images/kisan.jpg"group-title="HINDI LIVE",(INDIA)
-http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 #EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="HINDI LIVE",(EUROPE)
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1 tvg-id="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg" group-title="HINDI LIVE",(AMERICA)
@@ -199,7 +197,7 @@ http://175.41.46.16:8081/hls/1.m3u8
 http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c98/1565806465261/2982c79ea663967de3023f10721f4d5d.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1 ch-id="TATA SKY (IND)" tvg-logo="https://content.jdmagicbox.com/comp/pune/k7/020pxx20.xx20.110811184247.a9k7/catalogue/tata-sky-zone-kothrud-pune-dth-tv-broadcast-service-providers-nj3cp.jpg" group-title="HINDI LIVE",(INDIA)
+#EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/29/Zee_Bangla_HD_2017.jpg"  group-title="BENGALI LIVE",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
 http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
