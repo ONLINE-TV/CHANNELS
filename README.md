@@ -331,3 +331,5 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672449
+#EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="HINDI LIVE",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/5544
