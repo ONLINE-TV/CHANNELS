@@ -325,5 +325,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=cinemausa&e=.m3u8
 #EXTINF:-1 ch-id="ZEE SMILE (US)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg"  group-title="HINDI LIVE",(AMERICA)
 http://ajantatv.me/FoIder902/jee.php?c=smileusa&e=.m3u8
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(AMERICA) 
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
+#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="HINDI LIVE",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
