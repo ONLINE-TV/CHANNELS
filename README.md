@@ -27,8 +27,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="ENGLISH LIVE",(JAPAN)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 ch-id="DD NEWS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/e/e9/DD_News.png" group-title="HINDI LIVE",(INDIA)
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 ch-id="EUROSPORT (IN)" tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/A1F83G8C2ARO7P/a1e0cde47058b02b1e400663817af00f.w1961.h470.jpg"  group-title="ENGLISH LIVE",(INDIA)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1 ch-id="SPORTS MAX (ME)" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif" group-title="ENGLISH LIVE",(MIDDLE EAST)
@@ -63,8 +61,6 @@ http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="http://pluspng.com/img-png/sony-hd-png-file-sony-max-india-png-658.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ch-id="SONY WAH (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI LIVE",(INDIA)
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY ESPN HD (IN)" tvg-logo="https://rvcyberworldhome.files.wordpress.com/2018/09/download-4.png"  group-title="ENGLISH LIVE",(INDIA)
