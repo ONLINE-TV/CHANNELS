@@ -317,3 +317,5 @@ http://45.120.188.65:8080/0.ts
 http://ajantatv.me/FoIder902/jee.php?c=zeetvsduk&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(MIDDLE EAST) 
 http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(AMERICA) 
+http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
