@@ -314,4 +314,6 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89058
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="HINDI LIVE",(INDIA)
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",(EUROPE) 
+http://ajantatv.me/FoIder902/jee.php?c=zeetvsduk&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(MIDDLE EAST) 
 http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
