@@ -321,3 +321,5 @@ http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=andtvhdusa&e=.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-Title="HINDI LIVE",(MIDDLE EAST) 
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (US)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="HINDI LIVE",(AMERICA)
+http://ajantatv.me/FoIder902/jee.php?c=cinemausa&e=.m3u8
