@@ -175,7 +175,7 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://188.35.9.12:21121/udp/129i
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(MIDDLE EAST) 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-Title="HINDI LIVE",(INDIA) 
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-title="HINDI LIVE",(INDIA) 
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",(INDIA)
 http://103.144.200.7:8080/hls/zing/index.m3u8
@@ -315,7 +315,7 @@ http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
 http://ajantatv.me/FoIder902/jee.php?c=andtvhdusa&e=.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-Title="HINDI LIVE",(MIDDLE EAST) 
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(MIDDLE EAST) 
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (US)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="HINDI LIVE",(AMERICA)
 http://ajantatv.me/FoIder902/jee.php?c=cinemausa&e=.m3u8
