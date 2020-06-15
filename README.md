@@ -319,3 +319,5 @@ http://ajantatv.me/FoIder902/jee.php?c=zeetvsduk&e=.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(AMERICA) 
 http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
+#EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",(INDIA)
+http://ajantatv.me/FoIder902/jee.php?c=andtvhdusa&e=.m3u8
