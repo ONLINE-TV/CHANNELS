@@ -263,7 +263,7 @@ http://magco.rip/live/41246671289321/41604451921808/85136.m3u8
 http://magco.rip/live/41246671289321/41604451921808/85140.m3u8
 #EXTINF:-1 ch-id="TRAVEL XP (UK)" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Travelxp_worlds_leading.jpg"  group-title="ENGLISH LIVE",(EUROPE)
 http://90.254.188.213:9981/stream/channelid/989294737
-#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="http://bmidev.decipherconsultancy.in/timthumb.php?src=/wp-content/uploads/2018/03/Star-Gold-Select-HD_4.jpg"   group-title="HINDI LIVE",(INDIA) 
+#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg"   group-title="HINDI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65363.m3u8
 #EXTINF:-1 ch-id="STAR JALSHA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"   group-title="BENGALI LIVE",(INDIA) 
 http://magco.rip/live/41246671289321/41604451921808/65362.m3u8
