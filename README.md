@@ -329,3 +329,5 @@ http://ajantatv.me/FoIder902/jee.php?c=smileusa&e=.m3u8
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="HINDI LIVE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672449
