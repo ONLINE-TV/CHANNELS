@@ -331,3 +331,5 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/5544
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3981
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="HINDI LIVE",(INDIA)
 http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",(AMERICA) 
+http://tv.ebox.live:8080/live/zee-tv.m3u8
