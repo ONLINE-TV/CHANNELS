@@ -15,8 +15,6 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",(AMERICA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ch-id="BABY FIRST (ASIA)" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="ENGLISH LIVE",(ASIA PACIFIC)
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="ENGLISH LIVE",(EUROPE)
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png" group-title="ENGLISH LIVE",(INDIA)
@@ -335,3 +333,5 @@ http://tv.ebox.live:8080/live/star-plus.m3u8
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg"   group-title="HINDI LIVE",(INDIA) 
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-title="HINDI LIVE",(INDIA) 
+http://tv.ebox.live:8080/live/star-gold.m3u8
