@@ -335,7 +335,7 @@ http://tv.ebox.live:8080/live/zee-tv.m3u8
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-title="HINDI LIVE",(INDIA) 
 http://tv.ebox.live:8080/live/star-gold.m3u8
-#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/580758d0f297cb205707bb8d/1565806898891/43417e3094406c3e816c3514e82ab8e7.jpg"  group-title="HINDI LIVE",(INDIA) 
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/bb4e45e1f84ccbae.jpg"  group-title="HINDI LIVE",(INDIA) 
 http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/82199a84273f5369.jpg"  group-title="ENGLISH LIVE",(INDIA) 
 http://tv.ebox.live:8080/live/starsportshd-2.m3u8
