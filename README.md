@@ -339,3 +339,5 @@ http://tv.ebox.live:8080/live/star-gold.m3u8
 http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 2 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/82199a84273f5369.jpg"  group-title="ENGLISH LIVE",(INDIA) 
 http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4069212d8d4f6920.jpg"  group-title="ENGLISH LIVE",(INDIA) 
+http://tv.ebox.live:8080/live/starsports-1.m3u8
