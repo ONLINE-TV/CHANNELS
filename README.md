@@ -341,3 +341,5 @@ http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
 http://tv.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4069212d8d4f6920.jpg"  group-title="ENGLISH LIVE",(INDIA) 
 http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ch-id="MOVIES ACTIVE HD (IND)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="HINDI LIVE",(INDIA)
+http://103.194.169.115:25461/dqQNRTLjBh/fSO8Um75uoisshared/54226?play_token=xcHU6d12Ls&token=GRdRWUpbQV9BUQ8AUlRaVA0EXgdUVQNXAVQCVgIADghUBlsBAQUGA1cRFEQQFxAGVQxnD1YVCVQHUVYEHEFNQgdHZlFdEVlHUgEAUlVbVUEYQ0wPX1IRWwJWXQAAVQ4JVA0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXwSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
