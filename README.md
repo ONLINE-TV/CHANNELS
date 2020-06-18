@@ -5,8 +5,6 @@ http://45.120.188.76:8080/0.ts
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="MUSIC INDIA (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="HINDI LIVE",(INDIA)
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="HINDI LIVE",(INDIA)
-http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="XXX LIVE",(WORLD)
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="XXX LIVE",(WORLD)
@@ -43,18 +41,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1 ch-id="MASTIII (IN)" tvg-logo="http://www.mastiii.com/images/mastiii-logo-mew.png" group-title="HINDI LIVE",(INDIA)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
-#EXTINF:-1 ch-id="DISCOVERY (IN)"  tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="HINDI LIVE",(INDIA)
-http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
-#EXTINF:-1 ch-id="DISCOVERY KIDS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png" group-title="HINDI LIVE",(INDIA)
-http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
-#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)" tvg-logo="http://mandmglobal.com/wp-content/uploads/2014/12/Discovery-Turbo-600x460.jpg" group-title="ENGLISH LIVE",(INDIA)
-http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
-#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="HINDI LIVE",(INDIA)
-http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png" group-title="HINDI LIVE",(INDIA)
-http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
-#EXTINF:-1 ch-id="TLC HD (IN)"  tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1556850779_logo-tlc-hd.png" group-title="HINDI LIVE",(INDIA)
-http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="HINDI LIVE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="http://pluspng.com/img-png/sony-hd-png-file-sony-max-india-png-658.png" group-title="HINDI LIVE",(INDIA)
@@ -93,16 +79,10 @@ https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hd
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1 tvg-id="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg" group-title="HINDI LIVE",(AMERICA)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 ch-id="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png" group-title="HINDI LIVE",(PAKISTAN)
-http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
 #EXTINF:-1 ch-id="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="HINDI LIVE",(EUROPE)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 ch-id="BABY TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ENGLISH LIVE",(INDIA)
-http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo="https://www.phoneworld.com.pk/wp-content/uploads/2019/12/hum.jpg" group-title="HINDI LIVE",(PAKISTAN)
 http://95.211.211.168/live/humtv0066/playlist.m3u8
-#EXTINF:-1 ch-id="A PLUS (PK)" tvg-logo="https://pbs.twimg.com/profile_images/865895520417533953/4WISx12s_400x400.jpg" group-title="HINDI LIVE",(PAKISTAN)
-http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist.m3u8
 #EXTINF:-1 ch-id="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="HINDI LIVE",(PAKISTAN)
 http://95.211.211.168/live/geonews0011/playlist.m3u8
 #EXTINF:-1 ch-id="9 NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg" group-title="HINDI LIVE",(EUROPE)
