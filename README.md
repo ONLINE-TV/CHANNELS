@@ -81,10 +81,6 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 ch-id="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="HINDI LIVE",(EUROPE)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 ch-id="HUM HD (PK)" tvg-logo="https://www.phoneworld.com.pk/wp-content/uploads/2019/12/hum.jpg" group-title="HINDI LIVE",(PAKISTAN)
-http://95.211.211.168/live/humtv0066/playlist.m3u8
-#EXTINF:-1 ch-id="GEO NEWS HD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="HINDI LIVE",(PAKISTAN)
-http://95.211.211.168/live/geonews0011/playlist.m3u8
 #EXTINF:-1 ch-id="9 NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg" group-title="HINDI LIVE",(EUROPE)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="XXX LIVE" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",(EUROPE)
