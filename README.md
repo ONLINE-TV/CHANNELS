@@ -321,3 +321,5 @@ http://tv.ebox.live:8080/live/starsports-1.m3u8
 http://103.194.169.115:25461/dqQNRTLjBh/fSO8Um75uoisshared/54226?play_token=xcHU6d12Ls&token=GRdRWUpbQV9BUQ8AUlRaVA0EXgdUVQNXAVQCVgIADghUBlsBAQUGA1cRFEQQFxAGVQxnD1YVCVQHUVYEHEFNQgdHZlFdEVlHUgEAUlVbVUEYQ0wPX1IRWwJWXQAAVQ4JVA0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXwSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 #EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="HINDI LIVE",(EUROPE) 
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3983
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="HINDI LIVE",(INDIA) 
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3977
